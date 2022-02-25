@@ -1,0 +1,3448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amintas a pastoral acted at the Theatre Royal / made English out of Italian from the Aminta of Tasso by Mr. Oldmixon.</title>
+            <title>Aminta. English. 1698</title>
+            <author>Tasso, Torquato, 1544-1595.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62828</idno>
+            <idno type="STC">Wing T173</idno>
+            <idno type="STC">ESTC R38280</idno>
+            <idno type="EEBO-CITATION">17287024</idno>
+            <idno type="OCLC">ocm 17287024</idno>
+            <idno type="VID">106312</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106312)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1103:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amintas a pastoral acted at the Theatre Royal / made English out of Italian from the Aminta of Tasso by Mr. Oldmixon.</title>
+                  <title>Aminta. English. 1698</title>
+                  <author>Tasso, Torquato, 1544-1595.</author>
+                  <author>Oldmixon, Mr. (John), 1673-1742.</author>
+               </titleStmt>
+               <extent>[8], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Parker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106312:1" rendition="simple:additions"/>
+            <p>AMINTAS A PASTORAL, Acted at the Theatre Royal.</p>
+            <p>Made <hi>Engliſh</hi> out of <hi>Italian</hi> from the <hi>Aminta</hi> of <hi>Taſſo,</hi> By Mr. <hi>OLDMIXON.</hi>
+            </p>
+            <q>
+               <l>—mihi parva rura &amp;</l>
+               <l>Spiritum Graiae tenuem Camenae</l>
+               <l>Parca non mendax dedit &amp; malignum</l>
+               <l>Speruere Vulgus.</l>
+               <bibl>Hor.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Parker,</hi> at the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn,</hi> under the Piazza of the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi> 1698.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:106312:2"/>
+            <pb facs="tcp:106312:2"/>
+            <head>THE PREFACE.</head>
+            <p>I Was not ſurpriz'd my ſelf at the ſucceſs of this Paſtoral; I confeſs my Friends thought the Town would have been kinder to it, and I was once almoſt tempted to be of their opinion; but the knowledge I have had of the diſpoſition of an Audience towards ſuch things, kept me from expecting any very good uſage from 'em. 'Twas indeed unreaſonable for me to hope they would be pleas'd with a perſon who had conſulted their pleaſure no more than I did.</p>
+            <p>If the Paſtoral had been entirely my own, they would, I ſup<g ref="char:EOLhyphen"/>poſe, have ſhewn their reſentments ſome other way, and not have been contented with neglecting it. They avoided it becauſe they were afraid to condemn it boldly, leſt they ſhould make themſelves ridiculous. For ſome, who never read any of <hi>Taſſo</hi>'s writings, have heard ſo much of their excellence, that they durſt not appear openly againſt it; and it muſt he very uneaſie for them to ſee a Play, which they are engag'd not to commend, and yet can't take the liberty to condemn, without expoſing their own judgments. However, there were others who could not be reſtrain'd, and 'twas in vain to tell 'em they ſhould he cautious in their cenſures of a Poem, which has been admir'd ſo many ages. A Poem, which the Great <hi>Taſſo</hi> preferr'd to his <hi>Gieruſallemme.</hi> In which the moſt beautiful thoughts of the Ancients (in this kind) are to be found, and which all that know any thing of the Author, or his Writings, think the beſt he ever writ: A Poem, which the Learned Mon<g ref="char:EOLhyphen"/>ſieur <hi>Menage</hi> thought worth his remarks; of which <hi>Paſtor Fido</hi> is but an Imperfect Copy; Tho for that very reaſon it met with dif<g ref="char:EOLhyphen"/>ferent
+<pb facs="tcp:106312:3"/>treatment en our Theatre; for the Characters there, which never fail'd pleaſing an Audience, are unnatural and monſtrous. But there looks ſomething in <hi>Paſtor Fido</hi> like Intrigue, which will always have a good effect, where people are ſo fond of Gallantry, that they will not ſuffer ſo much as a Shepherd to appear without it.</p>
+            <p>I can't imagine what was ſaid lately, with too much ſeveri<g ref="char:EOLhyphen"/>ty, that the Shepherds Calendar excels the <hi>Aminta,</hi> prejudic'd the world againſt it; or that any body who have read it, will think <hi>Spencer</hi>'s Paſtoral equal to <hi>Taſſo</hi>'s. Is there any thing in <hi>Spen<g ref="char:EOLhyphen"/>cer</hi>'s comparable to the ſtory of the Bee in the firſt Act, or the ac<g ref="char:EOLhyphen"/>count which <hi>Daphne</hi> gives of <hi>Sylvia</hi>'s admiring herſelf in the Fountain, in the ſecond Act of the <hi>Aminta.</hi> Some perſons (and among the reſt Father <hi>Bouhours</hi>) have accus'd this laſt thought of too much affectation, and fancy 'tis not natural enough for a Shepherdeſs; but as Monſieur <hi>Fontenelle</hi> obſerves, if this is a fault, we may ſpare our ſelves the trouble of reading <hi>Guarini, Bo<g ref="char:EOLhyphen"/>narelli,</hi> and <hi>Marino.</hi> For this very thought of <hi>Sylvia's</hi> in com<g ref="char:EOLhyphen"/>pariſon of the beſt of theirs, is the moſt ſimple thing in the world; and he adds in the next ſentence, that the <hi>Aminta</hi> is indiſpu<g ref="char:EOLhyphen"/>tably the beſt Paſtoral which <hi>Italy</hi> has produc'd, and every one a<g ref="char:EOLhyphen"/>broad is of his opinion.</p>
+            <p>I am ſenſible many of the original Graces muſt be loſt, our Lan<g ref="char:EOLhyphen"/>guage wants too much of the ſoftneſs of the <hi>Italian,</hi> to render it e<g ref="char:EOLhyphen"/>qually beautiful in <hi>Engliſh;</hi> But I hope few of his thoughts have eſcapt me; and Monſieur St. <hi>Evermont,</hi> who confeſſes he is not a perfect Maſter of the Tongue, ſays the delicacy of thought in the <hi>Aminta</hi> has touch'd him ſo much, that he believes there never was an <hi>Italian</hi> more pleas'd with it. My Judges, who perhaps are not all as good Criticks as he is, not expecting any thing like this in the Paſtoral, were very far from his ſentiments, and did not mi<g ref="char:EOLhyphen"/>ſtruſt that there could be a thought in it too delicate for them. 'Twould be an affront to their taſte to think it was not nice enough to perceive the Beauties, which almoſt every page of <hi>Taſſo</hi> is full of; and I know they will not believe all that this Gentleman has ſaid ſome where elſe, that there is no Country in <hi>Europe</hi> where the Men have more Courage, the Women more Beauty, and both more Wit than in <hi>England;</hi> but then there is no place where a good taſte is ſo rarely to be met with. If they could have agreed to this, they
+<pb facs="tcp:106312:3"/>had not been ſo forward in cenſuring <hi>Amintas,</hi> leſt they might by chance make a wrong judgment, which very often falls out. They were not now long conſulting what to do with it, but whether they un<g ref="char:EOLhyphen"/>derſtood it or not, they were poſitive there was nothing in it, and moſt judiciouſly condemn'd what happens to be in the Original, the beſt thing of the kind that ever was or I believe ever will be written. There was no need of ſaying ſo much to vindicate <hi>Taſſo,</hi> his reputation is fix'd, and 'tis not in the power of Malice or Ig<g ref="char:EOLhyphen"/>norance to injure it. As for the Tranſlation, if there are any mi<g ref="char:EOLhyphen"/>ſtakes in it to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Authors prejudice. I deſerve to be blam'd, but tho I have heard the Conduct of the Play, the meaſure of the Verſe, and the management of the Repreſentation accus'd, yet none, as I know of, have laid any thing to my charge on that account. If they had, I ſhould have taken this opportunity to confeſs my errors or anſwer their objections. The Conduct of this Pastoral is the ſame as I found it, (except in the laſt Act, which I was oblig'd to alter) and I may therfore affirm the moſt correct that ever was ſeen on an <hi>Engliſh</hi> Theatre. If there had been iatrigue, a great deal of ſtir, and ſomething elſe in it, it had been more acceptable perhaps to thoſe whoſe protection I deſir'd, and whoſe pleaſure I chiefly de<g ref="char:EOLhyphen"/>ſign'd: but I was miſtaken, and ſince I endeavour to pleaſe them in every thing I write, I ſhall next time avoid that unpardonable Crime, which ruin'd <hi>Amintas</hi> on the Stage, and not venture ſo much on their complaiſance for the future.</p>
+            <p>There are few who conſider the nature of Paſtaral, that the Action ought to be ſimple, the Paſſions tender, and the Sentiments ſuch, as are ſuitable to people bred up in eaſe and innocence. The nearer a man comes to this rule, the more perfect will his writings of this kind be: but the age is not yet prepar'd to be diverted with any thing ſimple, eaſie and innocent; and it may 'thad been prudence in me to have waited till ſome perſon ſhould have attempted to pleaſe it this way, whoſe name might have given an authority to ſuch an Innovation. Tho 'tis to be fear'd, thoſe who have rais'd their Characters by Licentiouſneſs and Irregularity, will not ha<g ref="char:EOLhyphen"/>zard loſing 'em by writing correctly and decently; and yet many of 'em are ſo well ſettled in the good opinion of the publick, that whatever the ſhould promote would infallibly ſucceed. And it may not be improper to obſerve here, what an influence Fame has
+<pb facs="tcp:106312:4"/>on Certian Authors, who, having grown popular with their Fuſtian and Nonſence, have in time deſerv'd by writing well, the Reputa<g ref="char:EOLhyphen"/>tion their ill Verſes acquird 'em; ill uſage has frequently the con<g ref="char:EOLhyphen"/>trary effect, and ſuch as have done well, when they have not met with the applauſe they deſerv'd, by endeavouring after to do better; have made the firſt judgments that, were made of 'em juſt.</p>
+            <p>Some think the meaſure of the Verſe too ſhort, but <hi>Taſſo</hi> drew me in to this Error, if 'tis one, for ſince he thought the <hi>Italian,</hi> which is the ſweeteſt Language in the World, wanted to be made yet more ſoft by the ſhortneſs of the meaſure; I believ'd the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Heroick would be too Majeſtick, and not ſo agreeable to the great ſimplicity which ſhould every where appear in a Paſtoral, as Verſe of ſeven or eight Syllables.</p>
+            <p>The management of the repreſentation, particularly that part on't which I undertook, was very ill contriv'd. The ſmall ac<g ref="char:EOLhyphen"/>quaintance I have had with ſuch things did not qualify me to under<g ref="char:EOLhyphen"/>take what I did, and the ſucceſs was anſwerable to the contrivance. I ſuppoſe every part of the Repreſentation might have been orderd to more advantage, tho the Actors performd theirs as well as could be expected, and I queſtion if any other Company would have done it better. But be the Management or the Action what it will, I am ſatisfy'd nothing could have drawn an audience to it, when once they had heard what they were to be entertaind with, and that their attention was required for three hours without one jeſt to divert 'em. I ſaw this the firſt night, and ſhould have been much more diſcourag'd if ſome men of ſenſe, whoſe judgments I can ſafely depend on, had not aſſur'd me that there was no reaſon for't, and that the could not without reſentment, ſee the partiality of ſeveral perſons, which might have been employ'd to more purpoſe againſt other, who Court their applauſe, and value their opinion more than I can.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:106312:4"/>
+            <list>
+               <head>SHEPHERDS.</head>
+               <item>Amintas,</item>
+               <item>Thyrſis,</item>
+               <item>Elpinus,</item>
+               <item>Ergaſtus,</item>
+               <item>Alfibeus.</item>
+            </list>
+            <list>
+               <head>SHEPHERDESSES.</head>
+               <item>Sylvia,</item>
+               <item>Daphne,</item>
+               <item>Nerina.</item>
+               <item>Chorus of Shepherds and Shepherdeſſes.</item>
+            </list>
+         </div>
+         <div type="prologue">
+            <head>PROLOGUE.</head>
+            <byline>
+               <hi>Written by Mr.</hi> Dennis.</byline>
+            <l>THis Play's no <hi>Engliſh</hi> product, but with toil,</l>
+            <l>Imported from a richer nobler Soil.</l>
+            <l>Then judge not raſhly what, in better times,</l>
+            <l>Great <hi>Taſſo</hi>'s Genius writ to warmer climes.</l>
+            <l>They, who like Nature, may ſuppoſe it good,</l>
+            <l>Tho Nature hut by few is underſtood;</l>
+            <l>She never is but by reflection ſeen,</l>
+            <l>And few are bold enough to look within<g ref="char:punc">▪</g>
+            </l>
+            <l>As when a thoughtful man for ſakes the Town,</l>
+            <l>And to ſome Country Solitude goes down,</l>
+            <l>With more than common pleaſure he beholds</l>
+            <l>The Woods, the Lawns, the Valleys, and the Folds</l>
+            <l>Natures bright Beauties every where he meets,</l>
+            <l>His Soul, which long had been confin'd in ſtreets,</l>
+            <l>With Rapture now her kindred objects greets.</l>
+            <l>Theſe rural Scenes like pleaſure may impart</l>
+            <l>To thoſe who value Nature more than Art,</l>
+            <l>And who have Souls to taſte the Language of the Heart.</l>
+         </div>
+         <div type="epilogue">
+            <pb facs="tcp:106312:5"/>
+            <head>EPILOGUE.</head>
+            <l>O<g ref="char:V">Ʋ</g>r Author was afraid to have his Cauſe</l>
+            <l>Come before Judges who diſpence with Laws.</l>
+            <l>For thoſe he ſees, are always kind to Fools,</l>
+            <l>But moſt ſevere to ſuch as write by Rules.</l>
+            <l>They hate ev'n Nature too as much as Art,</l>
+            <l>And nothing but what's monſtrous will divert.</l>
+            <l>Thoſe Plays alone, that make 'em Laugh, delight,</l>
+            <l>Where folly oft ſucceeds as well as Wit.</l>
+            <l>So merry in their humours, we can ſcarce</l>
+            <l>Engage 'em now with any thing but Farce.</l>
+            <l>What hopes then that our ſerious Scenes will do?</l>
+            <l>They'll hardly ſpare 'em for their being new;</l>
+            <l>Their Novelty perhaps will give offence,</l>
+            <l>But above all we dread their Innocence;</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nleſs the Fair in their defence appear,</l>
+            <l>From whom, we hope, we have the leaſt to fear:</l>
+            <l>Love, Pity, Innocence, of right belong</l>
+            <l>To thoſe to judge of, who inſpir'd the Song.</l>
+            <l>And if ſome perſons fancy Farces beſt</l>
+            <l>Becauſe their own dear Pictures make the Jeſt;</l>
+            <l>The fair have much more reaſon to eſteem</l>
+            <l>The beauteous Images we draw from them.</l>
+            <l>To them the Soveraign Arbiters of Wit,</l>
+            <l>Our Author only would his Cauſe ſubmit,</l>
+            <l>Whate're their cenſures are, he'll not preſume</l>
+            <l>To think 'em hard, nor murmur at his doom.</l>
+            <l>As for the Criticks, tho he cannot truſt</l>
+            <l>That they'll be either merciful or juſt,</l>
+            <l>Yet if this Play is by the Ladies lik'd,</l>
+            <l>He thinks they're too well bred to contradict.</l>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="act">
+            <pb n="1" facs="tcp:106312:5"/>
+            <head>ACT I.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>Daphne, Sylvia.</stage>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>
+                     <hi>SYlvia,</hi> will you ſtill perſiſt</l>
+                  <l>In this ſtrange diſguſt of Love?</l>
+                  <l>Will you ſtill refuſe to hear</l>
+                  <l>Our Shepherds ſighs, and ſcorn their tears?</l>
+                  <l>But if ſighs end tears in vain</l>
+                  <l>Attempt to move your cruel heart,</l>
+                  <l>Methinks the hopes that you might have</l>
+                  <l>To ſee a lovely Infant ſmile,</l>
+                  <l>And call you Mother, ſhould ſucceed:</l>
+                  <l>Change, fooliſh Creature, change your thoughts,</l>
+                  <l>And be not conſtant to a Crime.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>Let others, if they pleaſe, be mov'd</l>
+                  <l>With ſighs and tears, and take delight</l>
+                  <l>To play with Love: I'll never quit</l>
+                  <l>The Foreſts, never leave the Chace,</l>
+                  <l>Whilſt Beaſts of prey are to be found.</l>
+                  <l>I'll range the Woods, I'll ſcour the Plains,</l>
+                  <l>And with my Bow and Quiver find</l>
+                  <l>A better way to nobler ſport.</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>Dull ſport, and an inſipid life</l>
+                  <l>You <hi>Sylvia,</hi> ſtubborn as thou art,</l>
+                  <l>Will think ſo too, when you begin</l>
+                  <l>To taſte the ſweets of Love.</l>
+                  <l>'So the firſt people, who poſſeſt</l>
+                  <l>'In Innocence the Infant World,</l>
+                  <l>'Fed on Acorns, and when dry</l>
+                  <l>'Drank the Waters of the Brook:</l>
+                  <l>'Beaſts only now on Acorns ſeed,</l>
+                  <l>'And drink the Waters of the Brook:</l>
+                  <pb n="2" facs="tcp:106312:6"/>
+                  <l>'And thus when you at laſt ſhall feel</l>
+                  <l>'How pleaſant 'tis beneath a ſhade,</l>
+                  <l>'To ſit and talk with one you love:</l>
+                  <l>Then, <hi>Sylvia,</hi> you'll repent and cry,</l>
+                  <l>Ah, fool! I never lov'd till now.</l>
+                  <l>You'll throw away your Arrows, break your Bow,</l>
+                  <l>And curſe the minutes you have loſt.</l>
+                  <l>Change, fooliſh Creature, change your thought,</l>
+                  <l>And be not conſtant to a Crime.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>When I ſit and taſk of Love,</l>
+                  <l>Dogs ſhall be afraid of Hares,</l>
+                  <l>Wolves of Lambs, and Streams return</l>
+                  <l>To the Fountains whence they roſe;</l>
+                  <l>Bears ſhall then the Foreſts leave,</l>
+                  <l>And Dolphins dance about the Plains.</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>I know your pride, for I was once</l>
+                  <l>Wild and obſtinate, like you.</l>
+                  <l>'I was then as fair, my Locks</l>
+                  <l>'As white as yours, my Lips as red:</l>
+                  <l>'Such Roſes and ſuch Lillies grac'd</l>
+                  <l>'My Cheeks, as flouriſh now on yours.</l>
+                  <l>'Twas then (ſo ſtupid was my taſte</l>
+                  <l>'The darling pleaſure of my life,</l>
+                  <l>'To ſet my Lime-twigs, lay my Nets,</l>
+                  <l>'And laugh as often as I ſaw</l>
+                  <l>'The Birds entangled in my Snares.</l>
+                  <l>I then delighted in the Chace,</l>
+                  <l>And ſcorn'd, with ſavage modeſty;</l>
+                  <l>The Shepherds whom my Charms had conquer'd:</l>
+                  <l>I was then ſo far unjuſt,</l>
+                  <l>As once to think it cauſe enough</l>
+                  <l>To hate 'em for their loving me;</l>
+                  <l>And pleaſing them diſpleas'd my ſelf:</l>
+                  <l>But oh! what will not time effect;</l>
+                  <l>What will not ſervices and ſighs,</l>
+                  <l>Deſert, entreaties, truth and tears?</l>
+                  <l>What, <hi>Sylvia,</hi> will not all theſe do?</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>Nothing with a mind reſolv'd</l>
+                  <pb n="3" facs="tcp:106312:6"/>
+                  <l>Againſt their flatteries, like mine.</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>Miſtaken Main!</l>
+                  <l>They'll maſter every ſtubborn thought,</l>
+                  <l>And force our hearts to think of Love.</l>
+                  <l>I know it by my ſelf, for I have felt,</l>
+                  <l>And muſt confeſs their power.</l>
+                  <l>They tempted me to tear my Nets,</l>
+                  <l>Neglect my Lime-twigs, break my Bow,</l>
+                  <l>And fling my Arrows in the Air.</l>
+                  <l>I cry'd there, there, <hi>Diana,</hi> take</l>
+                  <l>Theſe uſeleſs Weapons, I renounce</l>
+                  <l>The Woods and all thy ſports for Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>Renounce 'em by your ſelf and as for me—</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>Who knows, <hi>Amintas</hi> may in time</l>
+                  <l>Convert even thee to do as much:</l>
+                  <l>Is he not handſom? Can you ſee</l>
+                  <l>A comelier youth in all the plain?</l>
+                  <l>If you're related to the Gods.</l>
+                  <l>
+                     <hi>Amintas</hi> is deriv'd from <hi>Pan:</hi>
+                  </l>
+                  <l>You oft have <hi>Amarillis</hi> ſeen,</l>
+                  <l>And in ſome Fountain may compare</l>
+                  <l>Her beauties with your own.</l>
+                  <l>The difference, <hi>Sylvia,</hi> is not great,</l>
+                  <l>Yet poor <hi>Amintas</hi> ſhuns her ſmiles,</l>
+                  <l>To follow your contempt and you;</l>
+                  <l>And for your hate deſpiſes Love.</l>
+                  <l>But think it may not ſtill be thus,</l>
+                  <l>Think when her Beauties or her ſmiles</l>
+                  <l>Have toucht his heart, they'll laugh at yours,</l>
+                  <l>And make a jeſt of thy diſdain.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Where e're he pleaſes let him love,</l>
+                  <l>And Court what Maid he will but me:</l>
+                  <l>I'll ne're be trouble with his heart,</l>
+                  <l>Nor give him any hopes of mine.</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>What makes you hate him thus?</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv</speaker>
+                  <l>His love.</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>'Ah cruelty! we might expect</l>
+                  <l>'That Ravens would be born of Swans,</l>
+                  <pb n="4" facs="tcp:106312:7"/>
+                  <l>'Of Tygers Lambs, as well as thou</l>
+                  <l>'From tender Parents be deriv'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>I hate his Love becauſe he hates.</l>
+                  <l>What I love moſt, a Maiden life.</l>
+                  <l>While friendſhip only warm'd his Soul,</l>
+                  <l>None could eſteem him more than I.</l>
+               </sp>
+               <sp>
+                  <speaker>Dap.</speaker>
+                  <l>You'd have him then confine his wiſhes,</l>
+                  <l>To as narrow bounds as yours.</l>
+                  <l>He leſs deſerves to be condemn'd</l>
+                  <l>For wiſhing much,</l>
+                  <l>Than you do for not wiſhing more.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>
+                     <hi>Daphue,</hi> Peace, or if you'll talk,</l>
+                  <l>Prithee talk of ſome thing elſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Dap.</speaker>
+                  <l>Suppoſe another Swain ſhould court ye,</l>
+                  <l>Would you, <hi>Sylvia</hi> uſe him thus.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Thus every one that dares attempt</l>
+                  <l>To interrupt me in my ſports;</l>
+                  <l>And he that talks of Love to me,</l>
+                  <l>I'll uſe him as he is, my Foe.</l>
+               </sp>
+               <sp>
+                  <speaker>Dap.</speaker>
+                  <l>You may, <hi>Sylvia,</hi> then ſuppoſe</l>
+                  <l>Turtles to their Mates are foes.</l>
+                  <l>When the Birds begin to ſing,</l>
+                  <l>You may think they hate the Spring:</l>
+                  <l>You may, if you pleaſe, ſuppoſe,</l>
+                  <l>Nature and the Spring are foes,</l>
+                  <l>That its pregnant heats create</l>
+                  <l>Flowers, Plants, and Fruit in hate.</l>
+                  <l>But if you obſerve, you find</l>
+                  <l>Every thing to Love inclin'd.</l>
+                  <l>Doves in gentle whiſpers woe</l>
+                  <l>Their tender Mates, and bill and coe.</l>
+                  <l>The Nightingale flies round the Grove,</l>
+                  <l>And ſings on every Bough <hi>I love.</hi>
+                  </l>
+                  <l>Beaſts by nature fierce and wild,</l>
+                  <l>Become, when Love commands 'em, mild.</l>
+                  <l>The Lyon, Wolf, the Tyger, Bear,</l>
+                  <l>Leſs cruel, <hi>Sylvia,</hi> than you are,</l>
+                  <l>In Savage murmurs Love declare.</l>
+                  <pb n="5" facs="tcp:106312:7"/>
+                  <l>E'en Trees their amorous branches join,</l>
+                  <l>The Ivy fondly claſps the Vine,</l>
+                  <l>And her kind embraces ſhew,</l>
+                  <l>What you to Love and Nature owe.</l>
+                  <l>Change, fooliſh Creature, change your thoughts,</l>
+                  <l>And be not conſtant to a Crime.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>If Beaſts, if Trees, or Ivy ſhew,</l>
+                  <l>What Love and Nature bid me do,</l>
+                  <l>I'll tarry till they tell me ſo</l>
+               </sp>
+               <sp>
+                  <speaker>Dap.</speaker>
+                  <l>You mock me, <hi>Sylvia,</hi> have a care</l>
+                  <l>How you make a jeſt of Love.</l>
+                  <l>The time will come when you'll repent,</l>
+                  <l>For laughing at my Counſel now.</l>
+                  <l>When wrinkles ſhrivel up your brow:</l>
+                  <l>When the clear Fountains you will ſhun,</l>
+                  <l>Where now you take too much delight,</l>
+                  <l>To view your Beauties; where you gaze</l>
+                  <l>Whole hours with pleaſure on that face,</l>
+                  <l>Which then you'll be afraid to ſee.</l>
+                  <l>Then, <hi>Sylvia,</hi> you'll repent in vain</l>
+                  <l>You did not follow my advice.</l>
+                  <l>Have you forgot, or never heard</l>
+                  <l>What wiſe <hi>Elpinus</hi> told the fair,</l>
+                  <l>The cruel <hi>Lycoris,</hi> whoſe eyes</l>
+                  <l>Are not more charming than his voice?</l>
+                  <l>Have you forgot it, <hi>Sylvia?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>I know not what you mean.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>'Tis ſtrange:</l>
+                  <l>'Twas in <hi>Aurora</hi>'s awful Cave,</l>
+                  <l>'O're whoſe mouth are writ theſe words,</l>
+                  <l>'<hi>Hence, hence O ye Profane!</hi>
+                  </l>
+                  <l>
+                     <hi>Battus</hi> and <hi>Thyrſis</hi> being by,</l>
+                  <l>He told her what he learnt from him,</l>
+                  <l>Who ſung ſo well of War and Love,</l>
+                  <l>And left him when he dy'd, his Pipe;</l>
+                  <l>That there's a place among the darm'd,</l>
+                  <l>Where all ungrateful Beauties live,</l>
+                  <l>Tormented with eternal fires:</l>
+                  <pb n="6" facs="tcp:106312:8"/>
+                  <l>The Gods being careful to revenge</l>
+                  <l>Their Lovers wrongs; and 'tis but juſt</l>
+                  <l>That pain ſhould melt 'em into tears,</l>
+                  <l>Since pity could not touch their hearts.</l>
+                  <l>'Think, think on this, and if you dare,</l>
+                  <l>'Perſiſt, O Fool, in thy diſdain.</l>
+               </sp>
+               <sp>
+                  <speaker>'Sylvia.</speaker>
+                  <l>And what ſaid <hi>Lycoris</hi> to this?</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>You're fond to know anothers thoughts,</l>
+                  <l>'But will not change your own. She ſeem'd</l>
+                  <l>'Convinc'd, and anſwer'd with her eyes.</l>
+               </sp>
+               <sp>
+                  <speaker>'Syl.</speaker>
+                  <l>What? anſwer with her Eyes! Pray tell me how.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>She ſmil'd, and turning to the Swain,</l>
+                  <l>'In her kind looks ſhe ſeem'd to ſay,</l>
+                  <l>'I'm conquer'd; take the heart you begg'd,</l>
+                  <l>'You cannot wiſh for more.</l>
+                  <l>'She ſeem'd to ſay it, and 't had been enough,</l>
+                  <l>'If men might venture to believe,</l>
+                  <l>'Or truſt the Language of the eyes.</l>
+               </sp>
+               <sp>
+                  <speaker>'Syl.</speaker>
+                  <l>Why did he not believe it?</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>Have you not read what <hi>Thyrſis</hi> wrote?</l>
+                  <l>'In yonder Wood, where ſorrow led</l>
+                  <l>'His wandering ſteps? The Nymphs and Swains</l>
+                  <l>'Laught at, and pity'd him, to ſee</l>
+                  <l>'The fooliſh things he often did,</l>
+                  <l>'In many of his amorous fits:</l>
+                  <l>'Yet fooliſh as his actions ſeem'd,</l>
+                  <l>'His words were ſenſible; and none</l>
+                  <l>'Have cauſe to laugh at what he wrote.</l>
+                  <l>
+                     <hi>'Deceitful Glaſs, where oft I ſee</hi>
+                  </l>
+                  <l>
+                     <hi>'Falſe glances to deceive me,</hi>
+                  </l>
+                  <l>
+                     <hi>'The Heart muſt with the Eyes agree,</hi>
+                  </l>
+                  <l>
+                     <hi>'Or they will ne're relieve me.</hi>
+                  </l>
+                  <l>
+                     <hi>'When dying Looks and ſmiles I meet,</hi>
+                  </l>
+                  <l>
+                     <hi>'I'm ſtill afraid of Treaſon,</hi>
+                  </l>
+                  <l>
+                     <hi>'But Love, to help 'em in the Cheat,</hi>
+                  </l>
+                  <l>
+                     <hi>'Deprives me of my Reaſon.</hi>
+                  </l>
+                  <l>'He Grav'd 'em on a thouſand Trees;</l>
+                  <l>'And Nature, careful of his ſenſe,</l>
+                  <pb n="7" facs="tcp:106312:8"/>
+                  <l>'Preſerves his Verſes free from ſtorms,</l>
+                  <l>'And makes 'em flooriſh in the Bark.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>
+                     <hi>Daphne,</hi> we fool away the day</l>
+                  <l>In idle talk; 'tis time for me</l>
+                  <l>To be provided for my Sport.</l>
+                  <l>Firſt then I'll to the lonely Brook,</l>
+                  <l>Which glides thro you delicious Wood,</l>
+                  <l>And bath me in the Cryſtal ſtream;</l>
+                  <l>There playing with the waves a while,</l>
+                  <l>I grow refreſh'd, and with new life,</l>
+                  <l>Riſe from the Waters to the Chace.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>'Tis early, I muſt firſt go home,</l>
+                  <l>I'll meet you after at the Brook,</l>
+                  <l>And bath me with you, if you pleaſe.</l>
+                  <l>But, <hi>Sylvia,</hi> think on what I've ſaid,</l>
+                  <l>Tis of more conſequence than Brooks,</l>
+                  <l>Or Dogs, or Foreſts, or your Game;</l>
+                  <l>And if you know not yet what 'tis</l>
+                  <l>To love, ah! learn of thoſe that do:</l>
+                  <l>Love of all pleaſures is the beſt,</l>
+                  <l>And none can be without it bleſt.</l>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Amintas, Thyrſis.</stage>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I'Ve often found that Rocks and Waves</l>
+                  <l>Have anſwer'd my complaint: But oh!</l>
+                  <l>I never found, nor hope to find</l>
+                  <l>The Nymph, whom I've ſo long ador'd,</l>
+                  <l>As gentle ev'n as Rocks and Waves.</l>
+                  <l>Is ſhe a Woman? One may well ſuſpect</l>
+                  <l>If ſhe's of humane race, and yet I ſee</l>
+                  <l>Her beautiful and young, her form</l>
+                  <l>Of ſuch a mould, ſo ſoft, ſo ſweet,</l>
+                  <l>That 'twere impoſſible to think</l>
+                  <l>It lodg'd a Soul averſe to Love.</l>
+                  <l>If to my coſt I had not found</l>
+                  <pb n="8" facs="tcp:106312:9"/>
+                  <l>That things inanimate are leſs</l>
+                  <l>Inſenſible of pity than her heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyrſis.</speaker>
+                  <l>Lambs feed on Graſs, and Wolves on Lambs,</l>
+                  <l>They're fatisfy'd in time; but Love,</l>
+                  <l>Who feeds on Tears, is never ſatisfy'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>If Tears cou'd glut his appetite,</l>
+                  <l>He had been ſurfeited e're this:</l>
+                  <l>Or if the Virgin cou'd be mov'd</l>
+                  <l>With Seas of Tears I had been bleſt:</l>
+                  <l>No, they both hunger after Blood,</l>
+                  <l>And I reſolve to give 'em mine.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>'Ah! why, <hi>Amintas,</hi> will you talk</l>
+                  <l>'Of Blood? If ſhe is ſo ſevere,</l>
+                  <l>'Are there not other Maids as young,</l>
+                  <l>'As fair as ſhe? Look out and try,</l>
+                  <l>'Another Beauty may be kind.</l>
+               </sp>
+               <sp>
+                  <speaker>'Amint.</speaker>
+                  <l>Where ſhall I look, or how expect to find?</l>
+                  <l>'A Maid to pleaſe me, when I've loſt my ſelf.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Don't flatter your deſpair, but hope</l>
+                  <l>This cruel fair may yield at laſt:</l>
+                  <l>Lyons and Tygers may be tam'd,</l>
+                  <l>And ſhe you Love with Love be overcome.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>But who ſo wretched, who ſo near</l>
+                  <l>To death as I am, can be pleas'd</l>
+                  <l>With Life, or bear the torment long?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>The torment will not be ſo long</l>
+                  <l>As you ſuſpect, for Womens minds</l>
+                  <l>Are movable, like Aſpin leaves;</l>
+                  <l>And what they may this minute hate,</l>
+                  <l>They'll love the next. But ſay, my friend,</l>
+                  <l>Where lives? and who's this haughty Maid,</l>
+                  <l>That treats <hi>Amintas</hi> with ſuch ſcorn?</l>
+                  <l>You've told me often that you love,</l>
+                  <l>But never told me whom: be free,</l>
+                  <l>And open all your heart, without reſerve.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Well, you ſhall hear what every Wood,</l>
+                  <l>What all our Hills and Streams have heard,</l>
+                  <l>But no Man ever knew before;</l>
+                  <pb n="9" facs="tcp:106312:9"/>
+                  <l>'Tis fit now I'm ſo near the Grave,</l>
+                  <l>Some friend ſhould know the fatal cauſe,</l>
+                  <l>And write my ſorrows on the Tomb,</l>
+                  <l>Where my pale body ſhall be laid,</l>
+                  <l>That every paſſenger may read</l>
+                  <l>My fate, and ſhe for whom I dye</l>
+                  <l>Be pleas'd to triumph o're my duſt:</l>
+                  <l>It may be when ſhe ſees how far</l>
+                  <l>Deſpair has carry'd me, the thought</l>
+                  <l>(And yet I fear I hope too much)</l>
+                  <l>Will fetch a ſigh, or force a tear;</l>
+                  <l>And make her pity me, and wiſh</l>
+                  <l>That poor <hi>Amintas</hi> were alive.</l>
+                  <l>Hear then —</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>I hearken: and perhaps</l>
+                  <l>For better ends than you ſuppoſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>While I was yet a little Boy,</l>
+                  <l>Scarce tall enough to reach a Bough,</l>
+                  <l>Or pluck an Apple from a Tree,</l>
+                  <l>I felt my heart engag'd to love</l>
+                  <l>The faireſt Creature ever liv'd;</l>
+                  <l>
+                     <hi>Sylvia,</hi> the glory of the Woods,</l>
+                  <l>
+                     <hi>Montano</hi>'s and <hi>Cydippe</hi>'s Daughter:</l>
+                  <l>
+                     <hi>Sylvia,</hi> whoſe beauty, mien and youth,</l>
+                  <l>Charm every heart as well as mine;</l>
+                  <l>Our Houſes joyn'd, but were not half</l>
+                  <l>So cloſe united as our Hearts:</l>
+                  <l>Two Friends ne're lov'd as we did then;</l>
+                  <l>Two Turtles ne're ſo fondly ſought</l>
+                  <l>Each others company, as we did;</l>
+                  <l>Our pleaſures with our years agreed,</l>
+                  <l>The ſame diverſions ſuited both;</l>
+                  <l>We ſometimes Hunted, ſometimes Fiſh'd,</l>
+                  <l>Sometimes we laid our Nets for Birds,</l>
+                  <l>And always ſhar'd the Game we caught.</l>
+                  <l>But while we pleaſantly purſu'd</l>
+                  <l>Our mutual ſports, alas! I felt</l>
+                  <pb n="10" facs="tcp:106312:10"/>
+                  <l>Strange wiſhes growing in my heart:</l>
+                  <l>Like Flow'rs that on a ſudden ſpring</l>
+                  <l>From beds where they were never ſet:</l>
+                  <l>Whene're we parted now I wept</l>
+                  <l>For grief, and when we met, for joy.</l>
+                  <l>I ſuckt in poiſon from her eyes,</l>
+                  <l>Which ſeem'd delicious to the taſte,</l>
+                  <l>But left a bitter ſmart behind.</l>
+                  <l>I ſaw her now with new delight;</l>
+                  <l>I found new Graces in her face;</l>
+                  <l>I often ſigh'd, but knew not why;</l>
+                  <l>I lov'd, but did not know 'twas love,</l>
+                  <l>Till chance diſcover'd it.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Pray how?</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>
+                     <hi>Sylvia, Phillis,</hi> and my ſelf,</l>
+                  <l>Sitting underneath a Shade,</l>
+                  <l>Saw a Bee fly round the bank,</l>
+                  <l>Gathering Honey from the Flow'rs</l>
+                  <l>Which adorn'd our happy ſeat:</l>
+                  <l>Weary'd there, he fled to us,</l>
+                  <l>Pitcht on <hi>Phillis,</hi> who has Cheeks</l>
+                  <l>Fairer, ſweeter than the Roſe,</l>
+                  <l>Fancying every Grace a Flow'r,</l>
+                  <l>There he hung a while, and ſuckt</l>
+                  <l>Sweets much richer than his own!</l>
+                  <l>
+                     <hi>Phillis</hi> wept to feel the ſmart;</l>
+                  <l>
+                     <hi>Sylvia</hi> bid her weep no more,</l>
+                  <l>I, ſhe crys, can ſay a Charm,</l>
+                  <l>That will quickly give you eaſe:</l>
+                  <l>'Tis a Secret which I learnt</l>
+                  <l>Of wiſe <hi>Aricia,</hi> to whom</l>
+                  <l>For her Art I gave my Horn,</l>
+                  <l>Tipt with Ivory and Gold.</l>
+                  <l>Then ſhe put her fragrant Lips</l>
+                  <l>To the Cheek the Bee had ſtung,</l>
+                  <l>Said ſome Verſes o're the Wound,</l>
+                  <l>And as ſoon as <hi>Sylvia</hi> ſpoke,</l>
+                  <l>
+                     <hi>Phillis</hi> felt the pain no more.</l>
+                  <pb n="11" facs="tcp:106312:10"/>
+                  <l>See the wonderful effects,</l>
+                  <l>See the force of Magic words,</l>
+                  <l>Or, what I would rather think,</l>
+                  <l>See what <hi>Sylvia</hi>'s Lips can do,</l>
+                  <l>Every thing they touch they heal.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>How, <hi>Amintas,</hi> could you find</l>
+                  <l>Love had wounded you by this?</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I till this deſir'd no more</l>
+                  <l>Than to ſee her radiant Eyes,</l>
+                  <l>Or to liſten to her Voice,</l>
+                  <l>Soft as Rivulets that glide</l>
+                  <l>Murmuring thro our ſmiling Vales;</l>
+                  <l>Soft as <hi>Zephr</hi>'s evening breath,</l>
+                  <l>Playing with the Leaves of Trees:</l>
+                  <l>But as ſoon as I obſerv'd</l>
+                  <l>What her Lips had lately done,</l>
+                  <l>Then I wiſh'd 'em cloſe to mine,</l>
+                  <l>And, I know not how, contriv'd</l>
+                  <l>Ways to taſte of what I wiſh'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>None want artifice to gain</l>
+                  <l>What they covet to poſſeſs;</l>
+                  <l>All are cunning when in love.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I, to touch her roſy mouth,</l>
+                  <l>Feign'd a Bee had ſtung me too;</l>
+                  <l>And complain'd with ſuch an air,</l>
+                  <l>That it ſeem'd to beg the Cure,</l>
+                  <l>Which my tongue cou'd ne'r have askt.</l>
+                  <l>
+                     <hi>Sylvia</hi> kindly did to me</l>
+                  <l>What ſhe had to <hi>Phillis</hi> done,</l>
+                  <l>And her Lips thus fix'd to mine,</l>
+                  <l>Cur'd the counterfeited ſmart,</l>
+                  <l>But encreaſt my real pain.</l>
+                  <l>Bees ſure never from their Flow'rs</l>
+                  <l>Drew ſuch Honey as I ſuckt</l>
+                  <l>From my <hi>Sylvia</hi>'s humid kiſſes.</l>
+                  <l>Sure no Roſes but what grow</l>
+                  <l>On her Lips can yield ſuch ſweets.</l>
+                  <l>Tho my pleaſure was diſturb'd</l>
+                  <pb n="12" facs="tcp:106312:11"/>
+                  <l>By my ſhame, and guilty fears:</l>
+                  <l>Yet I counterfeited ſtill,</l>
+                  <l>And by this deceit prevail'd</l>
+                  <l>O're her to repeat the Charm.</l>
+                  <l>Something ſweet from ev'ry kiſs,</l>
+                  <l>Mixt with poyſon, ſtruck my heart;</l>
+                  <l>Which at laſt grew ſo inflam'd,</l>
+                  <l>That when once we met to play,</l>
+                  <l>With ſome other Nymphs and Swains,</l>
+                  <l>I, juſt dying with my fears,</l>
+                  <l>Softly whiſper'd her, <hi>I Love.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>How did <hi>Sylvia</hi> take the news?</l>
+                  <l>That you ſeem ſo much concern'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Soon her fiery bluſhes ſhew'd</l>
+                  <l>Both her anger and her ſhame;</l>
+                  <l>She ſtood ſilent, but I read</l>
+                  <l>By her ſilence what ſhe meant,</l>
+                  <l>That ſhe never wou'd forgive me.</l>
+                  <l>Now ſhe flies me, and will ſince</l>
+                  <l>Not ſo much as hear me ſpeak.</l>
+                  <l>Thrice our Golden Fields have bent</l>
+                  <l>Under their rich loads, and thrice</l>
+                  <l>Winter has with nipping froſts</l>
+                  <l>Made our Groves and Foreſts bare,</l>
+                  <l>Since I've try'd a thouſand ways</l>
+                  <l>To appeaſe her, but I find</l>
+                  <l>Death can only calm her rage.</l>
+                  <l>Death ſhall calm her then, my blood</l>
+                  <l>Shall appeaſe her for my fault.</l>
+                  <l>I cou'd dye, methinks, with joy,</l>
+                  <l>Were I ſure my Death would make her</l>
+                  <l>Either ſorrowful or glad;</l>
+                  <l>and I know not which to wiſh:</l>
+                  <l>Yes, her Pity would reward</l>
+                  <l>All my ſufferings, and ſhew</l>
+                  <l>What my Conſtancy deſerv'd.</l>
+                  <l>Yet, ah! why ſhould I deſire</l>
+                  <l>That her beauteous Eyes ſhould weep;</l>
+                  <pb n="13" facs="tcp:106312:11"/>
+                  <l>Or her Reſt be loſt for me?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Oh! could ſhe hear ſuch killing words,</l>
+                  <l>Such juſt complaints, 'twould melt her heart,</l>
+                  <l>And make her pity ye.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I fear it.</l>
+                  <l>But were ſhe ſenſible of pity,</l>
+                  <l>She flies, and will not hear me ſpeak:</l>
+                  <l>What hopes then that my juſt complaints</l>
+                  <l>Will melt her heart, that muſt not reach her ear?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Ceaſe, ceaſe your grief, I'll plead your Cauſe,</l>
+                  <l>Perhaps my Reaſons may ſucceed,</l>
+                  <l>And ſomething promiſes they will,</l>
+                  <l>If you would not deſpair.</l>
+               </sp>
+               <sp>
+                  <speaker>'Amin.</speaker>
+                  <l>I've reaſon to deſpair for ever,</l>
+                  <l>'Sage <hi>Mopſus</hi> has foretold my fate:</l>
+                  <l>
+                     <hi>'Mopſus,</hi> who underſtands ſo well</l>
+                  <l>'The virtues of all Herbs and Drugs;</l>
+                  <l>'Who by long ſtudy has acquir'd</l>
+                  <l>'To know things paſt, and things to come;</l>
+                  <l>
+                     <hi>'Mopſus</hi> has ſaid, I muſt deſpair.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>Which <hi>Mopſus?</hi> He who ſpeaks ſo fair?</l>
+                  <l>'And with grave ſmiles declares events:</l>
+                  <l>'Dark and treacherous to deceive</l>
+                  <l>'Such as ſuppoſe his Oracles divine.</l>
+                  <l>'He tells them, with a ſolemn look,</l>
+                  <l>'Things that will never come to paſs,</l>
+                  <l>'His Prophecies prove always lies.</l>
+                  <l>'Believe me, for I know him falſe.</l>
+                  <l>'Be chearful, you have cauſe enough</l>
+                  <l>'To hope your fortune will be good,</l>
+                  <l>'Since <hi>Mopſus</hi> has pronounc'd it ill.</l>
+               </sp>
+               <sp>
+                  <speaker>'Amin.</speaker>
+                  <l>Tell me, if you'd revive my hopes,</l>
+                  <l>'What makes you, <hi>Thyrſis,</hi> think him falſe?</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>When I firſt ſettled in theſe Plains, I lov'd</l>
+                  <l>'Like you, to hear him talk, and thought his words</l>
+                  <l>'As wiſe as they were grave, but quickly found</l>
+                  <l>
+                     <hi>'Mopſus</hi> a Cheat, and what he talks of, Lyes.</l>
+                  <l>'For once, when I reſolv'd to go and ſee</l>
+                  <pb n="14" facs="tcp:106312:12"/>
+                  <l>'The famous City which adorns the banks</l>
+                  <l>'Of our great River, and by that's adorn'd,</l>
+                  <l>'I told him my intentions, as a fiend,</l>
+                  <l>'And thus the envious Hypocrite reply'd,</l>
+                  <l>'You know not, <hi>Thyrſis,</hi> what you have reſolv'd,</l>
+                  <l>'Nor the vaſt danger you're about to run;</l>
+                  <l>'For Treaſon reigns within her Marble walls,</l>
+                  <l>'Where nothing kind or honeſt's to be found,</l>
+                  <l>'And ev'n the name of friendſhip is unknown:</l>
+                  <l>'Her Citizens grow wealthy by deceit,</l>
+                  <l>'By treachery her Courties grow renown'd;</l>
+                  <l>'On Downy Beds, and under Gilded Roofs,</l>
+                  <l>'Both ſeem to ſleep, yet both are kept awake,</l>
+                  <l>'By plotting death and ruin for the weak.</l>
+                  <l>'A thouſand horrid Fields, in various ſhapes,</l>
+                  <l>'Stalk thro her ſtreets, all ready to deſtroy</l>
+                  <l>'Such innocent and eaſie fools as you.</l>
+                  <l>'There you will hear 'em laugh at your rude mien,</l>
+                  <l>'Deſpiſe a Shepherds life, and mock our Songs.</l>
+                  <l>'But above all, her ſhining Palace fly,</l>
+                  <l>'Let nothing tempt you to approach her Gates.</l>
+               </sp>
+               <sp>
+                  <speaker>'Amin.</speaker>
+                  <l>And what could he ſuggeſt, to have you ſhun</l>
+                  <l>'So rich a ſight, which I ſhould long to ſee?</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>He told me, all things were Enchanted there;</l>
+                  <l>'That the pretended Diamonds were but Glaſs,</l>
+                  <l>'And all their Golden Veſſels real Braſs:</l>
+                  <l>'That empty bags her maſſy Coffers fill'd:</l>
+                  <l>'And her high Walls were rais'd up with ſuch art,</l>
+                  <l>'That they can hear and anſwer what is ſaid:</l>
+                  <l>'As Eccho anſwers in theſe Woods to us,</l>
+                  <l>'This difference only, that they ſometimes ſpeak</l>
+                  <l>'What they ne'r heard, which Eccho never does.</l>
+                  <l>'That every thing you meet there has a Tongue.</l>
+                  <l>'Thus prepoſſeſt by him, I went to Court,</l>
+                  <l>'But ſoon was undeceiv'd by Glorious Quires</l>
+                  <l>'Of Heavenly Virgins, who like Syrens ſung;</l>
+                  <l>'Their voices ſweeter, but not half ſo falſe.</l>
+                  <l>'Charm'd with their notes, a while I ſtood amaz'd,</l>
+                  <pb n="15" facs="tcp:106312:12"/>
+                  <l>'Till a great Prince, magnificently dreſt,</l>
+                  <l>'His air majeſtick, and his mien ſublime;</l>
+                  <l>'A Prince, <hi>Amintas,</hi> deſtin'd by the Gods</l>
+                  <l>'To vanquiſh Tyrants, and ſecure us Peace,</l>
+                  <l>'Invited me, as rude as I appear'd,</l>
+                  <l>'To ſee the Glories which adorn'd his Court.</l>
+                  <l>'I enter'd then, but never can relare</l>
+                  <l>'The Miracles I ſaw: a thouſand Suns</l>
+                  <l>'Shot forth bright Rays, and lookt as they were warm:</l>
+                  <l>'I ſaw young Goddeſſes in all her Rooms:</l>
+                  <l>'But met with one ſo eminently fair,</l>
+                  <l>'Her mien ſo graceful, and her looks ſo ſweet.</l>
+                  <l>'That 'tis not ſtrange if I could be deceiv'd,</l>
+                  <l>'And fancy'd that ſhe was the Queen of Heaven.</l>
+                  <l>'I ſaw the Muſes painted with their God,</l>
+                  <l>'Our Sage <hi>Elpinus</hi> ſitting penſive<g ref="char:punc">▪</g> by:</l>
+                  <l>'And from that minute felt a noble fire</l>
+                  <l>'Rage in my breaſt, and I reſolv'd to ſing</l>
+                  <l>'Of War, and ſcorn the dying notes of Love:</l>
+                  <l>'Tho ſince, to pleaſe another, I'm oblig'd</l>
+                  <l>'To quit the City, and return to you:</l>
+                  <l>'Yet my Pipe ſtill preſerves her Courtly note,</l>
+                  <l>'Like the loud Trumpet in our Foreſts ſounds;</l>
+                  <l>
+                     <hi>'Mopſus</hi> has liſten'd, and admires with ſhame,</l>
+                  <l>'To hear ſuch Muſick eccho from our Woods;</l>
+                  <l>'Aſham'd to find that I have prov'd him falſe,</l>
+                  <l>'And ſeem ſo much, and learnt to ſing ſo well.</l>
+                  <l>'Will ye believe ſtill?</l>
+               </sp>
+               <sp>
+                  <speaker>'Amin.</speaker>
+                  <l>I'm glad to hear</l>
+                  <l>'We have ſuch reaſon to miſtruſt his words</l>
+                  <l>'On your ſucceſs my happineſs depends.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>Depend on my ſucceſs and have a care,</l>
+                  <l>'The neareſt way to ruin 's to deſpair.</l>
+               </sp>
+               <sp>
+                  <pb n="16" facs="tcp:106312:13"/>
+                  <speaker>CHORUS.</speaker>
+                  <lg>
+                     <l>AH! the Golden Age is paſt,</l>
+                     <l>Which our happy Fathers bleſt;</l>
+                     <l>When whate're they long'd to taſte,</l>
+                     <l>They but wiſh for, and poſſeſt.</l>
+                  </lg>
+                  <lg>
+                     <l>The Meads were painted ſtill with Flow'rs,</l>
+                     <l>The Birds ne'r ceas'd to ſing;</l>
+                     <l>And then, without the help of ſhow'rs,</l>
+                     <l>They ſaw eternal Spring.</l>
+                  </lg>
+                  <lg>
+                     <l>Rivers then with Milk were fill'd,</l>
+                     <l>Honey from their Woods diſtill'd;</l>
+                     <l>None attempted then the Main,</l>
+                     <l>Nor expos'd their Lives for gain:</l>
+                     <l>Free from danger, want or care;</l>
+                     <l>Free from tumult, noiſe and war:</l>
+                     <l>They a thouſand Joys poſſeſt,</l>
+                     <l>Peace and Plenty were the leaſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah! the Golden, <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>'Honour, whoſe Laws are ſo ſevere,</l>
+                     <l>'So hard to be obey'd;</l>
+                     <l>'Who reigns with ſo much rigor here,</l>
+                     <l>'Ne're o're their pleaſures ſway'd.</l>
+                  </lg>
+                  <lg>
+                     <l>'They only maxim which they knew</l>
+                     <l>'They were by Nature taught,</l>
+                     <l>'That what they had a mind to do,</l>
+                     <l>'They might, without a fau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</l>
+                  </lg>
+                  <lg>
+                     <l>'The Virgin never bluſh'd to ſhew</l>
+                     <l>'By day her naked Charms;</l>
+                     <l>'And when ſhe lov'd a Swain, would go</l>
+                     <l>'With freedom to his arms.</l>
+                  </lg>
+                  <pb n="17" facs="tcp:106312:13"/>
+                  <lg>
+                     <l>'By Woods, on Greens they danc'd and play'd,</l>
+                     <l>'In Fountains kiſt and toy'd;</l>
+                     <l>'The youth then boldly took his Maid,</l>
+                     <l>'And what he lik'd enjoy'd.</l>
+                  </lg>
+                  <lg>
+                     <l>'But now when men the bleſſing want,</l>
+                     <l>'They long muſt court the fair in vain;</l>
+                     <l>'For Honor will not let 'em grant</l>
+                     <l>'The pleaſure they deny with pain.</l>
+                     <l>'Twas honour that firſt ſwell'd their hearts,</l>
+                     <l>'That taught 'em ſhame, and to be coy;</l>
+                     <l>'To frown, and uſe thoſe little arts,</l>
+                     <l>'Which only cheat 'em of their joy.</l>
+                  </lg>
+                  <lg>
+                     <l>'Hence thou Idol Honour, hence;</l>
+                     <l>'Leave us to our humble ſports;</l>
+                     <l>'Reign in Cities and in courts;</l>
+                     <l>'Honor is the child of Pride:</l>
+                     <l>'Here let Nature be our Guide:</l>
+                     <l>'Hence thou Idol Honour, hence.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div n="2" type="act">
+            <head>ACT II.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>Daphne, Thyrſis.</stage>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I Knew long ſince <hi>Amintas</hi> lov'd</l>
+                  <l>The haughty <hi>Sylvia,</hi> and Heaven knows</l>
+                  <l>Have oft endeavour'd to diſpoſe</l>
+                  <l>Her heart to be as much concern'd</l>
+                  <l>As he deſerves, and I could wiſh:</l>
+                  <l>But all that I can ſay's in vain,</l>
+                  <l>For Bears and Tygers may be tam'd</l>
+                  <l>Sooner than ſuch a ſimple Maid,</l>
+                  <pb n="18" facs="tcp:106312:14"/>
+                  <l>As proud and ſilly as ſhe's fair:</l>
+                  <l>Who, ignorant of what ſhe does,</l>
+                  <l>Or that her Eyes are arm'd with death,</l>
+                  <l>Commits new Murders every hour</l>
+                  <l>And kills when ſhe has no deſign to wound.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Where, <hi>Daphne,</hi> can you find a Maid</l>
+                  <l>So weak, ſo innocent, ſo young,</l>
+                  <l>As to be ign'rant of her Charms?</l>
+                  <l>They early deck themſelves with ſmiles,</l>
+                  <l>They know the wounds their Eyes have made,</l>
+                  <l>They know to what will cure thoſe wounds,</l>
+                  <l>And raiſe their Slaves from miſery to bliſs.</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>Who teaches 'em all this?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>The ſame</l>
+                  <l>That teaches Nightingales to ſing,</l>
+                  <l>The Peacock how to ſpread his Plumes,</l>
+                  <l>That teaches Bulls to uſe their Horns,</l>
+                  <l>The Ram to puſh, and Fiſh to ſwim:</l>
+                  <l>Nature inſtructs em what to do,</l>
+                  <l>Without the Mother or the Nurſes help.</l>
+               </sp>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>Nay <hi>Thyrſis,</hi> now I plainly ſee</l>
+                  <l>Thou'rt both malicious and a fool;</l>
+                  <l>But to ſpeak truth, I don't believe</l>
+                  <l>That <hi>Sylvia</hi> is as ignorant</l>
+                  <l>As ſhe pretends; for t'other day</l>
+                  <l>I found her in the little Iſle</l>
+                  <l>That ſtands in yonder ſpacious Meads,</l>
+                  <l>Encompaſt with a Cryſtal Lake;</l>
+                  <l>In whoſe clear Waters ſhe beheld</l>
+                  <l>Her Beauties; raviſh'd with the ſight,</l>
+                  <l>She ſeem'd to ask 'em how to place</l>
+                  <l>Her hair, and put her Garland on;</l>
+                  <l>She often with her Cheeks compar'd</l>
+                  <l>A Roſe, and Lillies with her Neck;</l>
+                  <l>On Roſe and Lilly then ſhe look'd</l>
+                  <l>With ſcorn, as if ſhe ſaid, O Flow'rs,</l>
+                  <l>Yield, yield to me; I wear ye now</l>
+                  <l>That you may bluſh to be outdone,</l>
+                  <pb n="19" facs="tcp:106312:14"/>
+                  <l>And not for ornament, for ſee</l>
+                  <l>I've better Graces of my own.</l>
+                  <l>While thus ſhe with the Waters play'd</l>
+                  <l>She look'd around, and ſpy'd me out,</l>
+                  <l>She dreſt herſelf in haſte, and dropt</l>
+                  <l>Her Flow'rs, aſham'd to be perceiv'd.</l>
+                  <l>I laugh'd aloud, and ſhe I ſaw</l>
+                  <l>Was more aſham'd to ſee me laugh:</l>
+                  <l>Yet did not dreſs her in ſuch haſte,</l>
+                  <l>But to the Fountain once or twice</l>
+                  <l>She ran, to fee her hair was ſet</l>
+                  <l>In order, and with pleaſure ſaw</l>
+                  <l>Thoſe locks in ſweet confuſion flow,</l>
+                  <l>Which haſte had forc'd her to neglect:</l>
+                  <l>I look'd and laugh'd, and ſaid no more.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>I ever did believe as much,</l>
+                  <l>Tho I could never prove it true.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I've heard that once the Nymphs and Swains</l>
+                  <l>Scorn'd to adorn themſelves by art;</l>
+                  <l>Nor was it thus when I was young,</l>
+                  <l>But now alas! the world grows old,</l>
+                  <l>And older as it grows, decays.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>The Citizens then ſeldom came</l>
+                  <l>To us, the Shepherds ſeldom went</l>
+                  <l>To them; but all things now are chang'd:</l>
+                  <l>We learn their manners, and forget</l>
+                  <l>Our Cuſtoms, by obſerving theirs.</l>
+                  <l>This, <hi>Daphne,</hi> is not our concern;</l>
+                  <l>D'ye think that <hi>Sylvia</hi> ne're will let</l>
+                  <l>
+                     <hi>Amintas</hi> talk with her alone,</l>
+                  <l>Or when you only ſhall be by?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I can't tell,</l>
+                  <l>She's extremely proud.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>And he reſpectful to extreams,</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Reſpect in Lovers is a Vice;</l>
+                  <l>You, who are his friend, ſhould tell him,</l>
+                  <l>That to ſucceed he muſt be told;</l>
+                  <l>Sollicit, ſue, entreat, demand:</l>
+                  <pb n="20" facs="tcp:106312:15"/>
+                  <l>And if this method may not take,</l>
+                  <l>Seize on the bleſſing he deſires.</l>
+                  <l>Don't you know, <hi>Thyrſis,</hi> womens tricks?</l>
+                  <l>They only fly to be purſu'd,</l>
+                  <l>Refuſe what they would have ye take;</l>
+                  <l>And fight that you may overcome.</l>
+                  <l>I tell you freely all our faults,</l>
+                  <l>And beg they may not be expos'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyrſis.</speaker>
+                  <l>You need not fear that I will ſpeak</l>
+                  <l>More than you would have me ſay;</l>
+                  <l>But I conjure thee by the thoughts,</l>
+                  <l>The pleaſing thoughts of thy paſt youth,</l>
+                  <l>That you'll aſſiſt <hi>Amintas</hi> in his Love,</l>
+                  <l>And ſave the wretch from death.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>By my part youth, the only thing</l>
+                  <l>Which if I could I would forget,</l>
+                  <l>Yet this you now conjure me by:</l>
+                  <l>Well, what is't you would have me do?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>You want no counſel, you can tell</l>
+                  <l>As well as I what muſt be done</l>
+                  <l>To ſave him, if you're ſo diſpos'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>
+                     <hi>Sylvia</hi> and my ſelf anon</l>
+                  <l>Are to bath us in the Brook</l>
+                  <l>Which is from <hi>Diana</hi> call'd;</l>
+                  <l>Where the Nymphs that love the Chace</l>
+                  <l>Play beneath the Plantain ſhade,</l>
+                  <l>In the fierceſt heats of noon:</l>
+                  <l>There I tell you <hi>Sylvia</hi> baths,</l>
+                  <l>And leaves naked all her Charms.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>What then?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>What then? Why thou'rt a fool,</l>
+                  <l>Can't you gueſs my meaning then?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>I gueſs your meaning, tho I fear</l>
+                  <l>
+                     <hi>Amintas</hi> will not dare to do't.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Not dare! then truly he may ſtay</l>
+                  <l>Till me ſeeks him.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>'Twill be no more</l>
+                  <l>Than he deſerves.</l>
+               </sp>
+               <pb n="21" facs="tcp:106312:15"/>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>Enough of this:</l>
+                  <l>'Let's now talk ſomething of your ſelf;</l>
+                  <l>'D'ye never, <hi>Thyrſis,</hi> think of Love?</l>
+                  <l>'If I remember well your age,</l>
+                  <l>'You're not much older yet than he;</l>
+                  <l>'This is the ſeaſon of deſire:</l>
+                  <l>'Methinks you ſhould not waſte your youth</l>
+                  <l>'In idleneſs, but long to taſte</l>
+                  <l>'What 'tis to Love,</l>
+                  <l>'For that's the only comfort of our lives.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>The man who hates to be in Love,</l>
+                  <l>'May be as fond of its delights,</l>
+                  <l>'As one that languiſhes in tears;</l>
+                  <l>'He ſhuns the bitter, and enjoys the ſweet.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>The bitter reliſhes the ſweet;</l>
+                  <l>'The pleaſure you come at with eaſe,</l>
+                  <l>'Soon cloys, and is not half ſo great,</l>
+                  <l>'As that which you muſt get by pain.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>And I had rather ſoon be cloy'd,</l>
+                  <l>'Than always hunger after food.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>But when the food is once poſſeſt,</l>
+                  <l>''Tis then you taſte it with delight,</l>
+                  <l>'And fain would taſte again.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>Who can be when he will poſſeſt</l>
+                  <l>'Of ſuch rich food?</l>
+                  <l>'And taſte it when his hunger calls?</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>He that ne're ſeeks can never find.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>'Tis dangerous to ſeek the Joys,</l>
+                  <l>'Which pleas'd perhaps when they are found,</l>
+                  <l>'But plague us more if miſt</l>
+                  <l>'When ſighs and tears are not requir'd,</l>
+                  <l>
+                     <hi>'Thyrſis</hi> may be in love again;</l>
+                  <l>'I've wept and ſigh'd my ſhare, and now</l>
+                  <l>'Let others take their turn.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>You could not ſtay for your reward.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>Rewards may be too dearly bought,</l>
+                  <l>'And ſuch I'm not ambitious of.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>You'd better be inclin'd, than forc'd to Love.</l>
+               </sp>
+               <pb n="22" facs="tcp:106312:16"/>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>'I, who from the reach of Love</l>
+                  <l>'Live ſo far, deſpiſe his power;</l>
+                  <l>'By my diſtance I'm ſecure.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>Who lives beyond the reach of Love?</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>Such as fear and fly his ſnares.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>Such as fear him fly in vain,</l>
+                  <l>'Love has Wings as well as Fear.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>When young his Feathers are ſo ſhort</l>
+                  <l>'He hardly can extend his Wings,</l>
+                  <l>'And has not ſtrength enough to fly.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>None perceive him when he's young;</l>
+                  <l>'E're you're certain of his birth,</l>
+                  <l>'His Wings grow large, are fit to ſpread,</l>
+                  <l>'And he has ſtrength enough to fly.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>Thoſe who have been never caught</l>
+                  <l>May be tempted by his Baits.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>Well, let's ſee if you can ſtill</l>
+                  <l>'All his baits and ſnares eſcape;</l>
+                  <l>'Do your beſt, for if at laſt</l>
+                  <l>'You ſhould be ſurpriz'd again;</l>
+                  <l>'If I ever hear you ſigh,</l>
+                  <l>'See you languiſh, weep and mourn;</l>
+                  <l>'If you mould be griev'd to death,</l>
+                  <l>'And a touch, a ſtep, or word,</l>
+                  <l>'Would aſſiſt thee in thy Love,</l>
+                  <l>'Thou ſhouldſt want ſuch little helps,</l>
+                  <l>'And dye unpity'd with deſpair.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>Could ye, <hi>Daphne,</hi> ſee me dye?</l>
+                  <l>'That indeed would be ſevere:</l>
+                  <l>'If you long to ſee me Love,</l>
+                  <l>'Love me then, and I am thine.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>You mock me, Youth, but you may know</l>
+                  <l>'I'm too young to be deſpis'd.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>You're ſo fair you may be ſure</l>
+                  <l>'All was real that I ſaid:</l>
+                  <l>'But as Women uſe to do,</l>
+                  <l>'You refuſe me, I muſt bear it,</l>
+                  <l>'And will ſtrive to be content.</l>
+               </sp>
+               <pb n="23" facs="tcp:106312:16"/>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>Be content, and live in peace,</l>
+                  <l>'Live in Idleneſs and Reſt,</l>
+                  <l>'Reſt and Idleneſs beget</l>
+                  <l>'Tender Wiſhes, Wiſhes Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr<g ref="char:punc">▪</g>
+                  </speaker>
+                  <l>While in this calm repoſe we live,</l>
+                  <l>'And fear for nothing but our Lambs;</l>
+                  <l>'The fields abroad are ſpread with Tents,</l>
+                  <l>'The Swains there change their Crooks for Spears,</l>
+                  <l>'Their harmleſs Virgins are expos'd</l>
+                  <l>'To all the inſolence of Luſt.</l>
+                  <l>'While we enjoy celeſtial eaſe,</l>
+                  <l>'And dread no Enemies but Wolves,</l>
+                  <l>'Shall I in Loves ſoft boſom ſleep?</l>
+                  <l>'No, <hi>Daphne,</hi> I'll extend my voice,</l>
+                  <l>'And ſing the wonders of the Man,</l>
+                  <l>'The Godlike Man, who drove the foe</l>
+                  <l>'Far from theſe Woods, and gave us reſt.</l>
+                  <l>'But leſt my ruſtick Muſe ſhould wrong</l>
+                  <l>'His fame by her inferiour praiſe,</l>
+                  <l>'Like ſome whom <hi>Phoebus</hi> ne're inſpir'd,</l>
+                  <l>'Who with vile Songs his name abus'd,</l>
+                  <l>'When they'd have rais'd it to the Skies.</l>
+                  <l>'With awful ſilence let me wait</l>
+                  <l>'Till Heaven the Hero ſhall reſtore</l>
+                  <l>'Triumphant to us from the War,</l>
+                  <l>'Then with freſh Roſes ſtrew his way,</l>
+                  <l>'And lay new Garlands at his feet.</l>
+               </sp>
+               <sp>
+                  <speaker>'Daph.</speaker>
+                  <l>You ſoar aloft: pray if you pleaſe,</l>
+                  <l>'Deſcend, and think of our affairs.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>You ſay you have agreed to meet</l>
+                  <l>
+                     <hi>'Sylvia</hi> at the Fountain, where</l>
+                  <l>'You intend to do your beſt</l>
+                  <l>'For our miſerable friend</l>
+                  <l>'I'll go ſeek <hi>Amintas</hi> out,</l>
+                  <l>'Send him to you, but I fear</l>
+                  <l>'He will be as loth to come,</l>
+                  <l>'As ſhe would be to have him.</l>
+               </sp>
+               <sp>
+                  <speaker>'Dap.</speaker>
+                  <l>I'll go before, and ſhould you follow,</l>
+                  <l>'Make as if you came by chance.</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>I will ſee. Yon <hi>Amintas</hi> comes.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="2" type="act">
+            <pb n="24" facs="tcp:106312:17"/>
+            <head>ACT II.</head>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Amintas, Thyrſis.</stage>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I Fain, methinks, before I dye,</l>
+                  <l>Would know how <hi>Thyrſis</hi> has ſucceeded:</l>
+                  <l>If he can do more than I</l>
+                  <l>Have done, and <hi>Sylvia</hi> will not hear</l>
+                  <l>With patience any one that ſpeaks for me,</l>
+                  <l>Here on this ſpot of Earth I'll end my pains,</l>
+                  <l>And in her preſence finiſh with my breath,</l>
+                  <l>The tortures of my Soul.</l>
+                  <l>The wounds which in my breaſt my hands ſhall make</l>
+                  <l>Will certainly tranſport her, ſince</l>
+                  <l>With ſo much pleaſure ſhe beholds</l>
+                  <l>The wounds which in my heart her eyes have made.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Courage, <hi>Amintas,</hi> I have news</l>
+                  <l>To tell thee that will bring thee hope.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Ah, <hi>Thyrſis,</hi> is it Life or Death?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>'Tis Life and Joy, if thou art bold enough</l>
+                  <l>To meet 'em where they're to be ſound:</l>
+                  <l>But then, <hi>Amintas,</hi> 'tis requir'd</l>
+                  <l>That thou ſhouldſt ſhew thy ſelf a Man;</l>
+                  <l>A Man that dares do any thing for Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>What muſt I dare? and whom encounter?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Suppoſe your Miſtreſs, in a Wood,</l>
+                  <l>Encompaſt with high Rocks, where Wolves,</l>
+                  <l>Where Lyons, Bears and Tygers lurk,</l>
+                  <l>Would you to get her venture there?</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I'd run as joyfully as e're I went</l>
+                  <l>To Dance and Revel at our rural Feaſts.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Suppoſe her in the hands of Thieves,</l>
+                  <l>Amidſt arm'd Robbers, would you venture there?</l>
+               </sp>
+               <pb n="25" facs="tcp:106312:17"/>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Swift as parcht Stags to cooling Waters run.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Something more daring, ſomething yet more bold</l>
+                  <l>Than this, is to be done to make thee bleſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I'd leap into the Ocean, when the Waves</l>
+                  <l>By ruffling Winds are mingled with the Clouds:</l>
+                  <l>I'd walk thro Fire, or elſe, as I've been told</l>
+                  <l>
+                     <hi>Orpheus</hi> once did, deſcend to Hell</l>
+                  <l>To find my <hi>Sylv'a</hi> our, but ſure</l>
+                  <l>'Twould not be Hell if ſhe were there.</l>
+                  <l>Tell me then where I am to go?</l>
+                  <l>And what I am to do?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr</speaker>
+                  <l>
+                     <hi>Sylvia,</hi> naked and alone,</l>
+                  <l>Attends thee at <hi>Diana</hi>'s Brook:</l>
+                  <l>
+                     <hi>Amintas</hi> durſt thou venture there?</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>What doſt thou tell me? <hi>Sylvia</hi> wait</l>
+                  <l>Naked and alone for me?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Alone, if <hi>Daphne</hi> is not there;</l>
+                  <l>And if ſhe is, you're ſafe in her.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Wait for me, and naked!</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Naked—But—</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>But what? Speak out, thy ſilence kills me.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr</speaker>
+                  <l>But 'tis not certain that ſhe waits for thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin</speaker>
+                  <l>This ruins what you ſaid before:</l>
+                  <l>Ah! if you were not ſure of that,</l>
+                  <l>Why, <hi>Thyrſis,</hi> did you ſay ſo much?</l>
+                  <l>Why did you ſhew me joy ſo near,</l>
+                  <l>And fling me from my hopes ſo ſoon<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Sure 'tis not friendly to inſult</l>
+                  <l>O're one in miſery, like me:</l>
+                  <l>Did you believe my griefs too light,</l>
+                  <l>That you encreaſe their weight?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Be rul'd</l>
+                  <l>By me, you ſhall be happy ſtill.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>What would ye have me do?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Go ſeize</l>
+                  <l>The Maid, while Fortune is your Friend.</l>
+               </sp>
+               <sp>
+                  <speaker>Anin.</speaker>
+                  <l>Ah! Heaven forbid that I ſhould think</l>
+                  <l>Of any thing that would diſpleaſe her,</l>
+                  <pb n="26" facs="tcp:106312:18"/>
+                  <l>Whom I will ne're offend but by my Love;</l>
+                  <l>And if my Love offends her,</l>
+                  <l>'Tis her Beauty's fault, not mine:</l>
+                  <l>In all my actions I reſolve</l>
+                  <l>More to conſult her pleaſure than my own.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>If not to Love her were in your powr,</l>
+                  <l>Would you ceaſe loving her to pleaſe her?</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Love will not ſuffer me to think</l>
+                  <l>Of loving her no more: But if</l>
+                  <l>'Twere in my pow'r, 'twould ne're be in my will.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>If you could ceaſe your Love, you'd ſtill</l>
+                  <l>Continue it in ſpite.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>No, not in ſpite,</l>
+                  <l>Yet I would Love her ſtill.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <p>Tho it were againſt her will.</p>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <p>Rather than not Love at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Why won't you then againſt her will</l>
+                  <l>Go take the bleſſing me denies?</l>
+                  <l>Becauſe ſhe knows not yet how good</l>
+                  <l>'Twould be to grant the favour you deſire.</l>
+                  <l>If ſhe at firſt may be a little vext,</l>
+                  <l>She'll ſoon be well contented with the fault.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Love anſwers thus to what you ſay,</l>
+                  <l>You have by long experience learnt</l>
+                  <l>To reaſon of thoſe things with art:</l>
+                  <l>But tho your argument's too ſtrong</l>
+                  <l>For mine, yet I'm convinc'd that 'tis not right.</l>
+                  <l>Love, with my tongue, confines my wiſhes,</l>
+                  <l>And will not ſuffer 'em to ſtray,</l>
+                  <l>Where <hi>Sylvia</hi> would not let 'em rove.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <p>Then you reſolve you will not go?</p>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Yes, I will go, but not where you Adviſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <p>Where then?</p>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>To Death, if you</l>
+                  <l>Can tell me of no other way</l>
+                  <l>To life; if this is all the good</l>
+                  <l>That you can do me by your help.</l>
+               </sp>
+               <pb n="27" facs="tcp:106312:18"/>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Is this ſo little then? And canſt</l>
+                  <l>Thou fancy, fooliſh as thou art,</l>
+                  <l>That <hi>Daphne</hi> would have bid us come,</l>
+                  <l>If ſhe, who knows what <hi>Sylvia</hi> thinks,</l>
+                  <l>Believ'd 'twould give her ſuch offence?</l>
+                  <l>She thought perhaps that 'twas not fit</l>
+                  <l>For you and me to know as much</l>
+                  <l>As ſhe of <hi>Sylvia</hi>'s Soul: Beſides,</l>
+                  <l>Enquiring farther in ſo nice a caſe,</l>
+                  <l>Inſtead of pleaſing will diſpleaſe.</l>
+                  <l>You often wiſht that you knew how</l>
+                  <l>To pleaſe her, you may do it now:</l>
+                  <l>No matter if you take by theft</l>
+                  <l>The joys you covet, or by gift;</l>
+                  <l>When once they're taſted ſhe'll forget</l>
+                  <l>The Crime, the ſin will be ſo ſweet.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <p>But how can I be ſure that I may go?</p>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>You can't be ſurer than you are:</l>
+                  <l>She would, as decency requires,</l>
+                  <l>Be angry, if you ſought to know</l>
+                  <l>More than <hi>Daphne</hi> bid me tell you.</l>
+                  <l>Or how can you, on t'other ſide,</l>
+                  <l>Be ſure me would not have you come?</l>
+                  <l>Since then you may perhaps be thought</l>
+                  <l>As guilty ſhould you ſtay; Proceed:</l>
+                  <l>For tho 'tis faulty oft to dare,</l>
+                  <l>'Tis always criminal to fear.</l>
+                  <l>Your ſilence ſhews that you're convinc'd,</l>
+                  <l>And your conviction promiſes ſucceſs.</l>
+                  <l>Come, follow me, I'll lead the way.</l>
+               </sp>
+               <sp>
+                  <speaker>Amint.</speaker>
+                  <p>Ah, ſtay a little.</p>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Stay! You know</l>
+                  <l>Time flys us.</l>
+               </sp>
+               <sp>
+                  <speaker>Amint.</speaker>
+                  <l>Prithee let us think</l>
+                  <l>A little more of what we have to do.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>We'll think a little more then as we go.</l>
+                  <l>Come, you may alter if you tarry,</l>
+                  <l>Things too much thought on frequently miſcarry.</l>
+               </sp>
+               <sp>
+                  <pb n="28" facs="tcp:106312:19"/>
+                  <speaker>CHORUS.</speaker>
+                  <lg>
+                     <l>Tell us, <hi>Cupid,</hi> in what Schools,</l>
+                     <l>By what maſters, by what rules,</l>
+                     <l>We muſt be taught to Love:</l>
+                     <l>How thou doſt inform the weak,</l>
+                     <l>Teach the ignorant to ſpeak</l>
+                     <l>So much like you above.</l>
+                  </lg>
+                  <lg>
+                     <l>'The Learn'd whom <hi>Athens</hi> breed,</l>
+                     <l>'And <hi>Phaebus</hi> oft inſpire,</l>
+                     <l>'May ſolemn Lectures read</l>
+                     <l>'On Love, and want its fire.</l>
+                  </lg>
+                  <lg>
+                     <l>'Tis thou alone doſt warmth impart,</l>
+                     <l>Our thoughts and words improve;</l>
+                     <l>And only thoſe who learn thy art</l>
+                     <l>Of thee, ſhould ſing of Love.</l>
+                     <l>Inſpir'd by thee, the rudeſt mind</l>
+                     <l>In ſofteſt notes complains;</l>
+                     <l>Wit then in Savages we find,</l>
+                     <l>And Eloquence in Swains.</l>
+                     <l>'Lovers by broken words and ſighs</l>
+                     <l>'Their meaning can expreſs;</l>
+                     <l>'And by their carriage or their Eyes,</l>
+                     <l>'We may their wiſhes gueſs.</l>
+                  </lg>
+                  <lg>
+                     <l>'Others then may read the wiſe,</l>
+                     <l>'I'll read only <hi>Celia</hi>'s Eyes,</l>
+                     <l>'Gazing there with much delight</l>
+                     <l>'I'll take up my Pen and write.</l>
+                     <l>'And being thus inſpir'd, will try</l>
+                     <l>'Who's more elegant than I.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div n="3" type="act">
+            <pb n="29" facs="tcp:106312:19"/>
+            <head>ACT III.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>Thyrſis, Chorus.</stage>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>O Cruelty extream! ungrateful Maid!</l>
+                  <l>Oh moſt ungrateful Sex! and thou</l>
+                  <l>Oh Nature! careleſs of thy Sons,</l>
+                  <l>Why haſt thou plac'd in Womens eyes</l>
+                  <l>All that is amiable and kind?</l>
+                  <l>And haſt forgot to mould their Hearts, as ſoft,</l>
+                  <l>Or make 'em with their Eyes agree.</l>
+                  <l>Ah, poor <hi>Amintas!</hi> miſerable Youth,</l>
+                  <l>Where haſt thou hid thy ſelf from human ſight?</l>
+                  <l>I've ſought thee every where in vain;</l>
+                  <l>I fear the tranſports of thy rage</l>
+                  <l>Have hurry'd thee to do thing</l>
+                  <l>For which we all muſt mourn: But ſee,</l>
+                  <l>Perhaps thoſe Swains can tell me where</l>
+                  <l>Thou art. Ah Shepherds have ye ſeen</l>
+                  <l>
+                     <hi>Amintas?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>You ſeem concern'd:</l>
+                  <l>What reaſon have ye for theſe tears?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>
+                     <hi>Amintas,</hi> poor <hi>Amintas,</hi> is the cauſe.</l>
+                  <l>Have ye not ſeen him lately?</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>No;</l>
+                  <l>We have not ſeen him ſince he went</l>
+                  <l>With you towards yonder Wood; but why</l>
+                  <l>D'ye ask ſo earneſtly?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>I fear</l>
+                  <l>H' has kill'd himſelf ſince that.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <p>
+                     <hi>Amintas</hi> kill'd himſelf! for what?</p>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <p>Anothers hatred, and his love.</p>
+               </sp>
+               <sp>
+                  <speaker>'Chorus.</speaker>
+                  <l>When two ſuch Enemies unite</l>
+                  <pb n="30" facs="tcp:106312:20"/>
+                  <l>'What can they not effect? Explain</l>
+                  <l>'Your ſelf more clearly: what d'ye mean?</l>
+               </sp>
+               <sp>
+                  <speaker>'Thyr.</speaker>
+                  <l>He lov'd a Nymph too much, and ſhe</l>
+                  <l>'Too much deſpis'd him for his love.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Ah tell me all, while you relate</l>
+                  <l>The ſtory, ſome may come this way,</l>
+                  <l>And bring us news of him you ſeek:</l>
+                  <l>Perhaps <hi>Amintas</hi> will himſelf</l>
+                  <l>Before you've finiſh'd it, arrive.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Yes, you ſhall, know it, for 'tis but juſt</l>
+                  <l>That ſuch ingratitude ſhould be</l>
+                  <l>As infamous as 'tis extream.</l>
+                  <l>
+                     <hi>Amintas</hi> heard (I told him where,</l>
+                  <l>Alas! and brought him to the place)</l>
+                  <l>That <hi>Sylvia</hi> was with <hi>Daphne</hi> gone</l>
+                  <l>To bath 'em in a neighb'ring Brook,</l>
+                  <l>Fearful and dubious there he went,</l>
+                  <l>His heart ſtill bidding him to ſtay,</l>
+                  <l>As I perſwaded him to go;</l>
+                  <l>And thus as he inclin'd to ſtop,</l>
+                  <l>I puſh'd him on, and forc'd him to proceed.</l>
+                  <l>As we approach'd the Brook, we heard</l>
+                  <l>A womans lamentable cryes,</l>
+                  <l>And <hi>Daphne</hi> preſently appear'd,</l>
+                  <l>Beating her Breaſts, and looking wild,</l>
+                  <l>As if ſome horrid thing was done;</l>
+                  <l>But when ſhe ſpy'd us, ſhe cry'd out,</l>
+                  <l>Help, fly, or <hi>Sylvia</hi>'s raviſh'd, fly.</l>
+                  <l>Swifter than Leopards on their prey</l>
+                  <l>The amorous <hi>Amintas</hi> ſlew,</l>
+                  <l>I follow'd, and behind the Boughs</l>
+                  <l>Saw the young Maid, all naked bound,</l>
+                  <l>Her hair, which in bright treſſes us'd to flow,</l>
+                  <l>Now ty'd her to a Tree: What once preſerv'd</l>
+                  <l>Her Virgin Boſom from laſcivious looks,</l>
+                  <l>Was now the fatal Inſtrument</l>
+                  <l>To hurt her Modeſty, and bind</l>
+                  <l>Her arms about the rugged Bark:</l>
+                  <pb n="31" facs="tcp:106312:20"/>
+                  <l>Her tender feet were ty'd with twigs:</l>
+                  <l>And o're againſt her I perceiv'd</l>
+                  <l>A wicked Satyr, who had then</l>
+                  <l>Juſt faſten'd her for his deſign:</l>
+                  <l>
+                     <hi>Sylvia,</hi> as well ſhe could, ſtrove</l>
+                  <l>To hinder his attempts.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>But what</l>
+                  <l>Could ſhe have done at laſt?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>
+                     <hi>Amintas</hi> like a Lyon fierce</l>
+                  <l>Ruſht on the Satyr with his Dart,</l>
+                  <l>I pick'd up Stones, and was prepar'd</l>
+                  <l>To help him, when the Monſter fled</l>
+                  <l>Far from revenge, and left our friend</l>
+                  <l>Behind, who now had time to gaze</l>
+                  <l>On all the Beauties he ador'd:</l>
+                  <l>He ſaw a thouſand hidden Charms,</l>
+                  <l>Which ſet afreſh his heart on fire,</l>
+                  <l>And eaſily one in his looks</l>
+                  <l>Might read his wonder and delight,</l>
+                  <l>Who mingling with his Love Reſpect,</l>
+                  <l>Thus in ſubmiſſive accents ſpoke:</l>
+                  <l>Forgive, fair Maid, forgive theſe hands,</l>
+                  <l>If they with too much boldneſs touch</l>
+                  <l>Your heavenly body, thus expos'd.</l>
+                  <l>Oh! <hi>Sylvia,</hi> murmur not at fate,</l>
+                  <l>Who ſent me here to ſet you free.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Such words would ſoften Rocks,</l>
+                  <l>And melt the moſt obdurate heart.</l>
+                  <l>What ſaid ſhe now?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Nothing; but lookt</l>
+                  <l>On him who ſav'd her, with diſdain;</l>
+                  <l>Aſham'd to be thus found, and loth</l>
+                  <l>To be by one ſhe hated, freed.</l>
+                  <l>She ſtrove with all her art to hide</l>
+                  <l>Her Breaſts, and keep 'em from his ſight.</l>
+                  <l>
+                     <hi>Amintas</hi> coming up with fear,</l>
+                  <l>Unbound her Hair, and as he touch'd</l>
+                  <l>Her Looks thus ſaid. Oh barbarous Tree,</l>
+                  <pb n="32" facs="tcp:106312:21"/>
+                  <l>Unworthy of theſe ſacred knots,</l>
+                  <l>With which we Lovers only ſhould be bound:</l>
+                  <l>Ah how couldſt thou ſuch Beauty wrong!</l>
+                  <l>Then trembling he unty'd her arms,</l>
+                  <l>Whiter than Ivory or Snow,</l>
+                  <l>And bending to the ground, began</l>
+                  <l>To break the twigs which bound her feet;</l>
+                  <l>But <hi>Sylvia</hi> rudely puſh'd him off,</l>
+                  <l>And ſpite of his reſpect, commanded</l>
+                  <l>Him proudly not to touch her feet.</l>
+                  <l>Hence Shepherd, touch me not, ſhe cry'd,</l>
+                  <l>For I'm <hi>Diana</hi>'s, and can looſe</l>
+                  <l>My feet without your help.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Oh! how</l>
+                  <l>Could ſhe with ſo much pride reward</l>
+                  <l>Such ſervices, and ſuch reſpect</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>
+                     <hi>Amintas</hi> modeſtly withdrew,</l>
+                  <l>And durſt not look on her again,</l>
+                  <l>But what he long'd ſo much to ſee,</l>
+                  <l>With pain deny'd himſelf, afraid</l>
+                  <l>To be by her he lov'd, deny'd.</l>
+                  <l>I, who behind the Covert ſtood,</l>
+                  <l>And ſaw and heard what he had ſaid and done,</l>
+                  <l>Was oft by juſt reſentment mov'd,</l>
+                  <l>And hardly kept from crying out,</l>
+                  <l>To ſee how haughtily ſhe us'd</l>
+                  <l>The man to whom ſhe ow'd her Life,</l>
+                  <l>Or what is dearer than her Life,</l>
+                  <l>Her Honour, by his means preſerv'd.</l>
+                  <l>And yet, oh ſtrange ingratitude!</l>
+                  <l>When with much trouble ſhe had unty'd</l>
+                  <l>Her Feet, away ſhe ran, and ſcorn'd</l>
+                  <l>To bid the Swain adieu: She flew</l>
+                  <l>Faſt as a Stag, but had no cauſe</l>
+                  <l>To ſear <hi>Amintas,</hi> who had ſhewn</l>
+                  <l>Such proofs of wonderful reſpect.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <p>What made her fly?</p>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>She rather choſe</l>
+                  <pb n="33" facs="tcp:106312:21"/>
+                  <l>To owe her ſafety to her flight,</l>
+                  <l>Than to <hi>Amintas</hi> love.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>She ſhew'd in this</l>
+                  <l>That ſhe delights to be ingrate:</l>
+                  <l>Where went the Shepherd then?</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>I know not.</l>
+                  <l>Juſtly provok'd, I ran to ſtop</l>
+                  <l>The Nymph, but ſhe was gone too far:</l>
+                  <l>When to the Fountain I return'd,</l>
+                  <l>In hopes to find <hi>Amintas</hi> there,</l>
+                  <l>I found him not, and fear he's gone</l>
+                  <l>To end his troubles with his Life.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Tho Lovers often talk of death,</l>
+                  <l>Few of them practice what they talk.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <p>I wiſh he may be one of thoſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <p>He will, you may be ſure he will.</p>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>I'll go to Sage <hi>Elpinus</hi> Bow'r,</l>
+                  <l>There, if he lives, perhaps he's gone.</l>
+                  <l>
+                     <hi>Elpinus</hi> Pipe has often ſooth'd his griefs,</l>
+                  <l>Compos'd his thoughts, and gave him reſt.</l>
+                  <l>Rocks liſten to the Shepherds heavenly Songs,</l>
+                  <l>Ev'n Mountains by his Muſick charm'd</l>
+                  <l>Have danc'd, and Rivers flow'd with Milk:</l>
+                  <l>Honey from Briars have diſtill'd,</l>
+                  <l>And dying Lovers been with pleaſure fill'd.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="3" type="act">
+            <head>ACT III.</head>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Amintas, Daphne, Nerina.</stage>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>OH! Pityleſs pity, cruel friend!</l>
+                  <l>To ſnatch away my Dart, with which</l>
+                  <l>I might have ended all my woes:</l>
+                  <l>The longer I retard my death</l>
+                  <l>'Twill be the ſharper when it comes.</l>
+                  <l>Ah! <hi>Daphne,</hi> why wouldſt thou perſwade</l>
+                  <l>A wretch to live in miſery?</l>
+                  <l>But all thy reaſons are too weak,</l>
+                  <pb n="34" facs="tcp:106312:22"/>
+                  <l>The hopes that thou wouldſt give me vain:</l>
+                  <l>Why wouldſt thou flatter me from death,</l>
+                  <l>Since 'tis my intereſt to dye?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Deſpair no more, for if I know</l>
+                  <l>
+                     <hi>Sylvia</hi>'s mind, 'twas more her ſhame,</l>
+                  <l>Than fear or ſcorn that made her fly.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>There's ſafety in deſpair, but hope</l>
+                  <l>Would quickly ruin me: I fee</l>
+                  <l>You only would be ſpecious hopes</l>
+                  <l>Prevent my death a while: for what?</l>
+                  <l>Ah! can there be a torment worſe</l>
+                  <l>Than Life to ſuch a wretch as me?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Live wretched, as thou thinkſt thy ſelf,</l>
+                  <l>And under all thy pains ſupport</l>
+                  <l>Thy heart, that after ſo much woe,</l>
+                  <l>Thou mayſt, tho late, o'recome 'em, and be bleſt,</l>
+                  <l>Let this encourage thee to hope,</l>
+                  <l>Think on the Beauties thou haſt ſeen;</l>
+                  <l>And, as thou juſtly mayſt, expect,</l>
+                  <l>That all thoſe treaſures will be thine.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Fortune and Love did only ſhew</l>
+                  <l>Thoſe Beauties to me, that my Eyes</l>
+                  <l>Might ſee the riches I'm deny'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Ner.</speaker>
+                  <l>Why, like the Raven, muſt I be</l>
+                  <l>The omen of bad news? Ah poor</l>
+                  <l>
+                     <hi>Montano!</hi> how wilt thou ſurvive</l>
+                  <l>Thy Daughters loſs, thy <hi>Sylvia</hi>'s death,</l>
+                  <l>The death of one thou lov'dſt ſo well?</l>
+                  <l>No more a Father now, at leaſt</l>
+                  <l>Without a Child.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I hear the voice</l>
+                  <l>Of one that talks of death.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I hear</l>
+                  <l>My <hi>Sylvia</hi> nam'd, it ſtrikes my heart:</l>
+                  <l>Who calls on <hi>Sylvia?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Ha, <hi>Nerina!</hi>
+                  </l>
+                  <l>'So dear to <hi>Cynthia,</hi> ſo fair</l>
+                  <l>'Her face, ſo white her hands,</l>
+                  <pb n="35" facs="tcp:106312:22"/>
+                  <l>'Her mien ſo ſoft, ſo full of grace,</l>
+                  <l>'That ſhe's the glory of our Woods.</l>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>'Tis neceſſary thou ſhouldſt know thy loſs,</l>
+                  <l>
+                     <hi>Montano,</hi> that thou mayſt procure</l>
+                  <l>The miſerable relicts of thy Child.</l>
+                  <l>Oh <hi>Sylvia!</hi> oh unhappy Maid!</l>
+               </sp>
+               <sp>
+                  <speaker>Amint.</speaker>
+                  <p>Ha! what of <hi>Sylvia?</hi> ſpeak.</p>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <p>Oh <hi>Daphne!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>What wouldſt thou have of <hi>Daphne?</hi> ſay.</l>
+                  <l>Why doſt thou mourn and call on <hi>Sylvia?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>I've cauſe to mourn, the fatal things</l>
+                  <l>Which have been to day will make</l>
+                  <l>You, him, and every body mourn.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>What things? Ah tell me all! my heart</l>
+                  <l>Chills at thy words: Speak, does ſhe live?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <p>Tell us what fatal things are done.</p>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>Why have I liv'd, oh Heaven! to be</l>
+                  <l>The meſſenger of theſe ſad tydings.</l>
+                  <l>
+                     <hi>Sylvia</hi> came naked to our houſe,</l>
+                  <l>(You know perhaps the fatal cauſe)</l>
+                  <l>Where being cloath'd ſhe fain would go,</l>
+                  <l>And forc'd me with he, to the Chace.</l>
+                  <l>We went, and in the Foreſt found</l>
+                  <l>The Nymphs, who by appointment met,</l>
+                  <l>Were ready to begin the ſport,</l>
+                  <l>When from the Thicket I perceiv'd</l>
+                  <l>A Wolf of monſtrous ſize ruſh forth,</l>
+                  <l>Licking his bloody Lips, whoſe foam</l>
+                  <l>Reeking and Crimſon, made us ſhake with fear;</l>
+                  <l>But <hi>Sylvia</hi> from her Quiver took</l>
+                  <l>An Arrow, put it to the Bow</l>
+                  <l>I gave her, which ſhe nimbly bent,</l>
+                  <l>And taking at the Beaſt juſt aim,</l>
+                  <l>She ſhot him near the Head; the Wolf enrag'd</l>
+                  <l>Fled to the Thicket: <hi>Sylvia</hi> drew,</l>
+                  <l>And brandiſhing her Dart, purſu'd</l>
+                  <l>Him in the Woods.</l>
+               </sp>
+               <sp>
+                  <speaker>Amint.</speaker>
+                  <l>Oh doleful ſtory!</l>
+                  <pb n="36" facs="tcp:106312:23"/>
+                  <l>Of which, if 'tis ſo ſad to hear</l>
+                  <l>So much, what muſt it be to know</l>
+                  <l>The reſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>I, with another Dart,</l>
+                  <l>Follow'd 'em by the blood the Wolf had ſpilt,</l>
+                  <l>But could not reach 'em, they were gone too far.</l>
+                  <l>I loſt her her in the Woods, yet ſtill</l>
+                  <l>Kept on alone, and wander'd thro</l>
+                  <l>The frightful Thicket, till I came</l>
+                  <l>To its moſt unfrequented tracts,</l>
+                  <l>Where <hi>Sylvia</hi>'s Dart lay on the ground,</l>
+                  <l>And at a little diſtance thence</l>
+                  <l>Her veil; and while I gaz'd on theſe,</l>
+                  <l>I ſpy'd ſeven Wolves around a Corps,</l>
+                  <l>Who tore it with their bloody Teeth.</l>
+                  <l>So eager on their Prey,</l>
+                  <l>I ſaw they woful ſight unſeen by them;</l>
+                  <l>With fear and pity mov'd, I turn'd</l>
+                  <l>My ſteps, and got in ſafety home.</l>
+                  <l>This, this is all that I can tell:</l>
+                  <stage>Shews the Veil.</stage>
+                  <l>This all of <hi>Sylvia</hi> which remains.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Ah! thou haſt told too much.</l>
+                  <l>Oh! Dear Remains: Oh! precious Blood,</l>
+                  <l>Oh <hi>Sylvia!</hi> now alas no more.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Ah! What, <hi>Nerina,</hi> haſt thou ſaid?</l>
+                  <l>It ſtrikes his Soul: he ſwoons, he dyes!</l>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>Perhaps 'tis but a Lovers fit;</l>
+                  <l>He breathes ſtill; ſee, he comes to life.</l>
+               </sp>
+               <sp>
+                  <speaker>Amint.</speaker>
+                  <l>Ah! Grief too mighty to be born,</l>
+                  <l>And yet too weak to be my death;</l>
+                  <l>This office for my hand's reſerv'd,</l>
+                  <l>And by my hand ſhall be perform'd.</l>
+                  <l>If my misfortunes are ſo ſure,</l>
+                  <l>If <hi>Sylvia</hi>'s dead, oh <hi>Daphne,</hi> why,</l>
+                  <l>Why didſt thou renew my pain,</l>
+                  <l>By bringing me to life again?</l>
+                  <l>How good, how pleaſant had it been,</l>
+                  <l>If <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n an extaſie of woe</l>
+                  <pb n="37" facs="tcp:106312:23"/>
+                  <l>Thou hadſt permitted me to dye:</l>
+                  <l>The Gods, who knew I ſhould by this</l>
+                  <l>Prevent the torments they've prepar'd</l>
+                  <l>For me to feel, inſpir'd your hearts</l>
+                  <l>With pity, that being forc'd to live</l>
+                  <l>I might endure 'em all; and all</l>
+                  <l>I have endur'd, for <hi>Sylvia</hi>'s dead:</l>
+                  <l>Nor is it poſſible for me</l>
+                  <l>To be more wretched than I am:</l>
+                  <l>And now methinks 'tis juſt that Heav'n and you</l>
+                  <l>And all ſhould ſuffer me to dye.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <p>At leaſt defer it till you know the truth.</p>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>I know the truth, I know too much,</l>
+                  <l>And have deferr'd my death too long.</l>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>Oh heaven! I wiſh I had been mute.</l>
+                  <l>When I began the ſtory.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Lend me, <hi>Nerina,</hi> lend the Veil,</l>
+                  <l>All that is left me of my love</l>
+                  <l>That on it I may feaſt my Eyes,</l>
+                  <l>The little way I have to go,</l>
+                  <l>The little time I have to live,</l>
+                  <l>That looking on her Blood, I may</l>
+                  <l>Go boldly to my doom: But oh</l>
+                  <l>What need ſuch little helps</l>
+                  <l>To lead me to my end?</l>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>No, Swain,</l>
+                  <l>You muſt not have the Veil, if this</l>
+                  <l>Is your deſign: I'll not promote</l>
+                  <l>Your death.</l>
+               </sp>
+               <sp>
+                  <speaker>Amint.</speaker>
+                  <l>Ah! canſt thou, Nymph, deny</l>
+                  <l>So ſmall a favour to a man,</l>
+                  <l>Who ne're will ask another.</l>
+                  <l>The fates ſtill perſecute me, ſtill declare</l>
+                  <l>Againſt me, and in little things</l>
+                  <l>Shew what I muſt expect in great.</l>
+                  <l>Keep, keep the Veil, and live in peace,</l>
+                  <l>Let miſery with me forſake theſe Woods,</l>
+                  <l>I go to other Shades, and never ſhall return.</l>
+               </sp>
+               <pb n="38" facs="tcp:106312:24"/>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Stay, ſtay <hi>Amintas,</hi> oh I fear</l>
+                  <l>His fury.</l>
+               </sp>
+               <sp>
+                  <speaker>Nerina.</speaker>
+                  <l>But we can't prevent</l>
+                  <l>What he intends, he flies</l>
+                  <l>Too faſt for us; we ſhould in vain</l>
+                  <l>Purſue him, and in vain attempt</l>
+                  <l>To ſtop him in his courſe.</l>
+                  <l>In ſilence I'll their fortune mourn;</l>
+                  <l>Let others tell <hi>Montano,</hi> if they pleaſe,</l>
+                  <l>Few people thank us for ſuch tales as theſe.</l>
+               </sp>
+               <sp>
+                  <speaker>CHORUS.</speaker>
+                  <lg>
+                     <l>Ye Nymphs, no more take pains to hide</l>
+                     <l>Your Love, but own your paſſion;</l>
+                     <l>For Virtue if too nice, is pride,</l>
+                     <l>And Coyneſs Affectation.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Cupid</hi> make our Virgins tender,</l>
+                     <l>Maké 'em eaſie to be won;</l>
+                     <l>Let 'em preſently ſurrender,</l>
+                     <l>When the Treaty's once begun.</l>
+                     <l>Such as like a tedious wooing,</l>
+                     <l>Let 'em cruel Damſels find;</l>
+                     <l>But for ſuch as would be doing,</l>
+                     <l>Prithee <hi>Cupid</hi> make 'em kind.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>By a Shep<g ref="char:EOLhyphen"/>herdeſs.</stage> The fair in the City</l>
+                     <l>Don't underſtand pity,</l>
+                     <l>Yet vainly pretend they are wiſer than we are:</l>
+                     <l>But the Nymph of the plain</l>
+                     <l>Should make much of her Swain,</l>
+                     <l>And think that the wiſer Maids are they're the freer.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> a Shep<g ref="char:EOLhyphen"/>herd.</stage> When we go to our Laſſes,</l>
+                     <l>To ask their good graces,</l>
+                     <l>They ought to receive us, and each take her man;</l>
+                     <l>And when we meet firſt,</l>
+                     <l>Since both know the worſt,</l>
+                     <l>Let's agree to be happy as faſt as we can.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div n="4" type="act">
+            <pb n="39" facs="tcp:106312:24"/>
+            <head>ACT IV.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>Daphne, Sylvia, Chorus.</stage>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>THanks to the Gods, that all our tears</l>
+                  <l>Were needleſs, all our plaints and fears</l>
+                  <l>In vain, ſince ſhe for whom we mourn'd</l>
+                  <l>Is living, and in health return'd:</l>
+                  <l>Long mayſt thou live, and Heaven protect</l>
+                  <l>The Life, which you too much neglect.</l>
+                  <l>
+                     <hi>Nerina</hi> in confuſion ſaid</l>
+                  <l>Such things as made us think you dead:</l>
+                  <l>I wiſh, to've ſav'd us ſo much grief,</l>
+                  <l>She had been dumb, or others deaf.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>The riſque was great, and had you ſeen</l>
+                  <l>The mighty danger I was in,</l>
+                  <l>You would your ſelf have ſaid ſo too.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Not if I had n't known it true.</l>
+                  <l>Tell me the riſque you ran, and how</l>
+                  <l>You ſcap't the danger.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>You ſhall know.</l>
+                  <l>Too day I at the Chaſe purſu'd</l>
+                  <l>A Wolf ſo far into the Wood</l>
+                  <l>I loſt my Game, I loſt the track,</l>
+                  <l>And turn'd on purpoſe to come back,</l>
+                  <l>When with ſeven other Wolves I found</l>
+                  <l>The Beaſt, and knew him by his wound:</l>
+                  <l>Round ſome dead Animal they ſtood,</l>
+                  <l>And tore its fleſh, and lickt its blood:</l>
+                  <l>The Wolf I ſhot ſoon ſpy'd me out,</l>
+                  <l>And left his prey to meet his foe.</l>
+                  <l>I with my Dart oppos'd his way,</l>
+                  <l>Tho, miſtreſs of my art, you know</l>
+                  <pb n="40" facs="tcp:106312:25"/>
+                  <l>I very ſeldom miſs my blow,</l>
+                  <l>Yet by bad luck I miſt it now,</l>
+                  <l>And my Dart reſted in a Bough:</l>
+                  <l>The Wolf at this more furious grew,</l>
+                  <l>And got ſo near me, that I knew</l>
+                  <l>My Bow would ſtand in little ſtead;</l>
+                  <l>So to preſerve my ſelf I fled.</l>
+                  <l>And as I fled I was me thought</l>
+                  <l>By ſomething which oppos'd me, caught.</l>
+                  <l>The Veil I wore hitcht in a Tree,</l>
+                  <l>And with my hair entangled me.</l>
+                  <l>I pull'd my Veil, I tore my hair,</l>
+                  <l>And yet was forc'd to leave it there.</l>
+                  <l>Wing'd by my fright away I flew</l>
+                  <l>Like air, and ſo got ſafe to you.</l>
+                  <l>Why <hi>Daphne,</hi> are you now ſo ſad:</l>
+                  <l>What, can't my ſafety make you glad?</l>
+               </sp>
+               <sp>
+                  <speaker>Dap.</speaker>
+                  <l>You live, I'm glad to find it true,</l>
+                  <l>And wiſh another was as ſafe as you.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Perhaps you hate me, you appear</l>
+                  <l>No more concern'd to ſee me here.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I hate you not, I joy in your return,</l>
+                  <l>But for anothers death muſt mourn.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <p>Whoſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <p>Poor <hi>Amintas.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>Tell me how</l>
+                  <l>He dy'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Ah! that I want to know;</l>
+                  <l>We are not certain yet he's dead,</l>
+                  <l>But we believe't.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>What haſt thou ſaid!</l>
+                  <l>Ah, <hi>Daphne,</hi> ſay to what alas,</l>
+                  <l>Do people attribute the cauſe?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <p>Thy death.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <p>Explain your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>The news</l>
+                  <l>He heard will certainly produce</l>
+                  <l>Some dreadful deed, Deſpair will lend</l>
+                  <pb n="41" facs="tcp:106312:25"/>
+                  <l>Him arms, to help him to his end.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>It may be your ſuſpicions are in vain,</l>
+                  <l>And, he as well as I, may riſe again</l>
+                  <l>From Death; beſides 'tis very rare</l>
+                  <l>For men to let their troubles go ſo far.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>
+                     <hi>Sylvia,</hi> little doſt thou know</l>
+                  <l>What ſome men in Love will do:</l>
+                  <l>Thou doſt little think how much</l>
+                  <l>Every accident will touch</l>
+                  <l>Hearts of Fleſh, and not of Stone,</l>
+                  <l>Not ſo cruel as thy own.</l>
+                  <l>Hadſt thou known the man that dyes</l>
+                  <l>Lov'd thee better than his Eyes,</l>
+                  <l>Thou wouldſt have been leſt ſevere,</l>
+                  <l>And prevented his deſpair.</l>
+                  <l>Had you ſeen him but to day,</l>
+                  <l>After you were ran away.</l>
+                  <l>
+                     <hi>Sylvia,</hi> you'd with reaſon fear,</l>
+                  <l>Your diſdain has gone too far.</l>
+                  <l>Such ingratitude you ſhow'd,</l>
+                  <l>To the man to whom you ow'd,</l>
+                  <l>Life and Honour, all thats dear,</l>
+                  <l>I can tell for I was there.</l>
+                  <l>I can witneſs what was done,</l>
+                  <l>Saw him ſave you, and you run,</l>
+                  <l>VVhen ſure, after that had paſt</l>
+                  <l>He deferv'd to be embrac'd.</l>
+                  <l>Then I ſaw him rake his Dart,</l>
+                  <l>Turn the point againſt his heart,</l>
+                  <l>Strike his breaſt, and from the wound</l>
+                  <l>Saw the blood flow on the ground.</l>
+                  <l>I came in, and much ado</l>
+                  <l>Hinder'd him a ſecond blow.</l>
+                  <l>
+                     <hi>Sylvia,</hi> thus you ſee how far</l>
+                  <l>Some are hurry'd by deſpair.</l>
+                  <l>So much may by this be gueſt,</l>
+                  <l>We have cauſe to dread the reſt.</l>
+               </sp>
+               <pb n="42" facs="tcp:106312:26"/>
+               <sp>
+                  <speaker>Sylvia.</speaker>
+                  <l>What have I heard?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Things indeed,</l>
+                  <l>Enough, alas, to make thee dread</l>
+                  <l>What thou art yet to hear.</l>
+                  <l>Thence as we were coming back</l>
+                  <l>We met the Nymph, who by miſtake</l>
+                  <l>Inform'd us you were ſlain; the youth,</l>
+                  <l>Without examining the truth,</l>
+                  <l>Believ'd, deſpair'd, and in the heat</l>
+                  <l>Of grief, fell breathleſs at our ſeet.</l>
+                  <l>We took him up, he breath'd again,</l>
+                  <l>We ſtrove to comfort him in vain;</l>
+                  <l>For all the reaſons we could give,</l>
+                  <l>Could not prevail on him to live:</l>
+                  <l>But ruſhing forth, away he fled</l>
+                  <l>To death, and I believe is dead.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>D'ye really believe it?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Yes.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Ah! why</l>
+                  <l>Did you not follow him, and fly</l>
+                  <l>Faſt as his fury, to prevent</l>
+                  <l>The conſequence of his intent.</l>
+                  <l>Ah let us ſeek him out, and ſtrive</l>
+                  <l>To make him yet conſent to live.</l>
+                  <l>Since he that for my Death would dye,</l>
+                  <l>Should for my Life revive.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>We follow'd, but he flew like wind:</l>
+                  <l>He left us panting far behind;</l>
+                  <l>And long e're this has done what he deſign'd.</l>
+                  <l>Whither then, <hi>Sylvia,</hi> would you run?</l>
+                  <l>And who ſhall tell us where the wretch is gone?</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Ah, let us go where grief and pity lead;</l>
+                  <l>Haſte, <hi>Daphne</hi> haſte, or he'll be dead;</l>
+                  <l>By himſelf murder'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>You would ſave</l>
+                  <l>The unhappy Lover from the Grave,</l>
+                  <l>To murder him your ſelf: To you</l>
+                  <l>You think the Glory's only due.</l>
+                  <pb n="43" facs="tcp:106312:26"/>
+                  <l>But you've no reaſon to repine,</l>
+                  <l>For let the blow be his or thine,</l>
+                  <l>Twill be his death, and thou mayſt ſee,</l>
+                  <l>With comfort, that he dy'd for thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>
+                     <hi>Daph.</hi> It torments my mind</l>
+                  <l>When I conſider how unkind,</l>
+                  <l>How cruel I have been:</l>
+                  <l>Pride I call'd Honour once, perhaps</l>
+                  <l>'Twas Honour, but 'twas too ſevere;</l>
+                  <l>And ſuch as will, if he is dead,</l>
+                  <l>Sharpen my grief, my cruelty reprove,</l>
+                  <l>And force me to repent I wrong'd his Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Oh Heaven! She's pitiful, repents,</l>
+                  <l>Her heart grows tender, ſhe relents;</l>
+                  <l>She weeps—</l>
+                  <l>Is thy pride humbled then? O ſtrange!</l>
+                  <l>Whence, <hi>Sylvia,</hi> comes this mighty change?</l>
+                  <l>Whence all theſe tears, from Pity or from Love?</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Pity, not Love, attracts my tears</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Pity's Love's Meſſenger, and ſhews,</l>
+                  <l>As Lightning before Thunder goes,</l>
+                  <l>Love is not far.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>When he'd ſurprize a Maid</l>
+                  <l>Who of his Empire is afraid,</l>
+                  <l>Who by falſe honour would defend her heart,</l>
+                  <l>And be ſecure againſt his Dart,</l>
+                  <l>He takes his Servant Pity's ſhape,</l>
+                  <l>And in that figure few eſcape</l>
+                  <l>His ſnares, he ſlily wins on every heart,</l>
+                  <l>And beaten off by force, prevails by art.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Love at firſt in ſtorms appears,</l>
+                  <l>Waited on by ſighs and tears:</l>
+                  <l>Love has touch'd thee, tho too late,</l>
+                  <l>Into fondneſs turn'd thy hate.</l>
+                  <l>Ah <hi>Amintas, Sylvia</hi>'s chang'd,</l>
+                  <l>Weeps for Love, and thou'rt reveng'd.</l>
+                  <l>Now thou mayſt the Conqueſt boaſt,</l>
+                  <l>Which if living thou hadſt loſt.</l>
+                  <pb n="44" facs="tcp:106312:27"/>
+                  <l>Thou haſt Dying left behind</l>
+                  <l>Such a ſting in <hi>Sylvia</hi>'s mind,</l>
+                  <l>As will work more miſchief there,</l>
+                  <l>Than thou ever feltſt for her.</l>
+                  <l>Bees thus can't their Stings outlive,</l>
+                  <l>But periſh with the wounds they give.</l>
+                  <l>If thou'rt, as I believe, a Spirit, fled</l>
+                  <l>From the bright manſions of the dead;</l>
+                  <l>From heavenly Groves, and ſacred ſtreams,</l>
+                  <l>To play unſeen about her Limbs,</l>
+                  <l>See, <hi>Sylvia</hi> weeps, behold how much ſhe's mov'd,</l>
+                  <l>You lov'd alive, and are when dead belov'd.</l>
+                  <l>'If Deſtiny had ſo decreed,</l>
+                  <l>'That thou ſhouldſt for thy Miſtreſs bleed;</l>
+                  <l>'If in her thoughts ſhe had reſolv'd that this,</l>
+                  <l>'Whene're ſhe ſold her Love, ſhould be the price,</l>
+                  <l>''Tis thine, now thou haſt done thy part,</l>
+                  <l>'And with thy Life haſt bought her heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Too vainly ſold, and bought too dear;</l>
+                  <l>'For him too hard, too infamous for her.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Oh that my Love could fetch again his breath,</l>
+                  <l>Or my heart purchaſe him of Death.</l>
+                  <l>Oh that my Life could be the Price,</l>
+                  <l>I'd gladly part with it for his</l>
+               </sp>
+               <sp>
+                  <speaker>Daph,</speaker>
+                  <l>Too late you're pitiful and wiſe,</l>
+                  <l>Your tears are uſeleſs, and in vain your ſighs.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="4" type="act">
+            <head>ACT IV.</head>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Ergaſtus, Chorus, Sylvia, Daphne.</stage>
+               <sp>
+                  <speaker>Ergaſtus.</speaker>
+                  <l>PIty and horror have ſo far</l>
+                  <l>Poſſeſt my Soul, I know not what</l>
+                  <l>I hear or ſee, but every thing</l>
+                  <l>I meet, amazes and afflicts me.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>What tydings haſt thou brought, which make</l>
+                  <l>Thy looks thus troubled, and thy words</l>
+                  <l>Confus'd.</l>
+               </sp>
+               <pb n="45" facs="tcp:106312:27"/>
+               <sp>
+                  <speaker>Ergaſt.</speaker>
+                  <l>I bring the bitter news</l>
+                  <l>Of poor <hi>Amintas</hi> death.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>What is't he ſays?</l>
+               </sp>
+               <sp>
+                  <speaker>Ergaſt.</speaker>
+                  <l>The nobleſt Shepherd of theſe Woods,</l>
+                  <l>The kind, the gay, the gentle Swain,</l>
+                  <l>Our Virgins and the Muſes darling,</l>
+                  <l>Young as he was, is dead; but how;</l>
+                  <l>Oh! who can tell, or hear it told?</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Tell all, that we may mourn with thee</l>
+                  <l>His ſad misfortunes and our own.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Oh! how can I ſtay to hear</l>
+                  <l>This moſt horrid ſtory out?</l>
+                  <l>Where is all my fierceneſs now?</l>
+                  <l>Oh! my heart, ſo haughty once,</l>
+                  <l>Shew thy Pride, and if thou canſt</l>
+                  <l>Stay and hear it all unmov'd:</l>
+                  <l>Speak then what thou haſt to ſay.</l>
+                  <l>Shepherd, let me know the worſt,</l>
+                  <l>Tell it me, I'm moſt concern'd;</l>
+                  <l>Speak, I'm ready for thy news.</l>
+               </sp>
+               <sp>
+                  <speaker>Ergaſt.</speaker>
+                  <l>Nymph, I know thou art concern'd,</l>
+                  <l>Dying, the Deſpairing wretch</l>
+                  <l>Call'd on thee, and with thy name</l>
+                  <l>Finiſh'd his unhappy Life.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Prithee begin the diſmal tale.</l>
+               </sp>
+               <sp>
+                  <speaker>Ergest.</speaker>
+                  <l>Sitting on yonder Hill, where I</l>
+                  <l>Had laid ſome Nets, I ſaw but now</l>
+                  <l>
+                     <hi>Amintas</hi> run that way; his looks</l>
+                  <l>Diſtracted, and his carriage wild;</l>
+                  <l>His eyes, his mein ſo chang'd, I thought</l>
+                  <l>That ſomething ſtrange might happen ſince</l>
+                  <l>I leſt the Vale: he ſpy'd and ſhunn'd me,</l>
+                  <l>Fearing the worſt; I then purſu'd,</l>
+                  <l>O'retook and ſtopp'd him; he grew calm,</l>
+                  <l>Begg'd me to go and ſee him do</l>
+                  <l>A thing which he pretended then</l>
+                  <l>He was oblig'd to do, but firſt</l>
+                  <l>Forc'd me to ſwear I would not ſtir,</l>
+                  <pb n="46" facs="tcp:106312:28"/>
+                  <l>Beyond the bounds he ſet, nor lift</l>
+                  <l>My hands to hinder him. I ſwore</l>
+                  <l>By <hi>Pan,</hi> by <hi>Pallas,</hi> by <hi>Pomona,</hi>
+                  </l>
+                  <l>And all our <hi>Sylvan</hi> Deities,</l>
+                  <l>(Alas! not thinking what he meant.)</l>
+                  <l>I would not ſtir nor lift my hands,</l>
+                  <l>Unleſs he gave me leave. This done,</l>
+                  <l>He led me to a Precipice,</l>
+                  <l>Where, from the margent of the H</l>
+                  <l>Directly down the pathleſs dale,</l>
+                  <l>Between high Blocks appears, my head</l>
+                  <l>Grew giddy, I ſtepp'd back, afraid</l>
+                  <l>To view the depth: <hi>Amintas</hi> ſmil'd</l>
+                  <l>And look'd ſerenely, which deceiv'd</l>
+                  <l>My fears, and made me more aſſur'd.</l>
+                  <l>Thus then he ſaid—</l>
+                  <l>
+                     <hi>Ergaſtus,</hi> tell</l>
+                  <l>The Nymphs and Swains what thou ſhalt ſee,</l>
+                  <l>Since, ſince he cry'd, and then look'd down,</l>
+                  <l>The Gods will not permit my end</l>
+                  <l>To be the ſame with <hi>Sylvia</hi>'s ſince</l>
+                  <l>My Limbs muſt not be torn like hers,</l>
+                  <l>And I'm deny'd the Paws and Teeth</l>
+                  <l>Of Wolves to uſe, as they ſerv'd</l>
+                  <l>Her lovely Body: I muſt take</l>
+                  <l>Whatever death they pleaſe to ſend.</l>
+                  <l>Theſe Rocks direct the way, I wiſh</l>
+                  <l>I had deſerv'd the ſame with hers.</l>
+                  <l>But this is ſure and ſhort. Oh ſee!</l>
+                  <l>I follow thee, my <hi>Sylvia,</hi> don't</l>
+                  <l>Diſdain my Company in death.</l>
+                  <l>I'd dye contented, were I ſure</l>
+                  <l>'I would not diſpleaſe thee, I ſhould then,</l>
+                  <l>Oh <hi>Sylvia,</hi> follow thee with joy.</l>
+                  <l>I come, I follow thee, I come:</l>
+                  <l>And ſaying this,</l>
+                  <l>He threw him headlong down,</l>
+                  <l>While my heart chill'd to ſee him fall.</l>
+               </sp>
+               <pb n="47" facs="tcp:106312:28"/>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Oh miſerable youth!</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Oh Heavens!</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>But why</l>
+                  <l>
+                     <hi>Ergaſtus</hi> did you not prevent him?</l>
+                  <l>Was it your Oath that ty'd your hands,</l>
+                  <l>And kept you back?</l>
+               </sp>
+               <sp>
+                  <speaker>Ergaſt.</speaker>
+                  <l>No, I deſpiſe</l>
+                  <l>Such Oaths, and look on them as vain,</l>
+                  <l>When I perceiv'd his folly went</l>
+                  <l>So far, and his deliberate deſpair</l>
+                  <l>Ready to fling him from the Precipice,</l>
+                  <l>I ran to ſave him, and as fate</l>
+                  <l>Would have it, came in time enough</l>
+                  <l>To catch him by the Girdle, which</l>
+                  <l>The burthen of the Body broke,</l>
+                  <l>And left it rent thus in my hands.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Where went the miſerable Body then?</l>
+               </sp>
+               <sp>
+                  <speaker>Ergaſt.</speaker>
+                  <l>I know not what became of that.</l>
+                  <l>Horror and Pity ſtruck my ſoul</l>
+                  <l>So deeply, I had not the heart</l>
+                  <l>To ſee it daſh in pieces.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Oh ſtrange! Oh woful accident!</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Sure my heart is made of ſtone,</l>
+                  <l>Or it muſt have bled to death,</l>
+                  <l>E're the diſmal tale was done.</l>
+                  <l>Oh! if he could dye for me,</l>
+                  <l>One who hated him ſo much,</l>
+                  <l>When he falſely thought me dead,</l>
+                  <l>What ſhall I do now, I know</l>
+                  <l>He is certainly no more?</l>
+                  <l>I muſt dye, and dye 1 will:</l>
+                  <l>Swords and Rocks are left for me:</l>
+                  <l>This precious Girdle is preſerv'd</l>
+                  <l>To revenge its gentle Lord.</l>
+                  <l>Unhappy Girdle! Dear Remains</l>
+                  <l>Of thy more unhappy Lord!</l>
+                  <l>Be not angry that thou'rt kept</l>
+                  <l>From thy Maſter; 'tis to be</l>
+                  <pb n="48" facs="tcp:106312:29"/>
+                  <l>The Inſtrument of Vengeance</l>
+                  <l>On the Maid for whom he dy'd.</l>
+                  <l>I ſhould, I own I ſhould have been</l>
+                  <l>
+                     <hi>Amintas</hi> kind Companion here;</l>
+                  <l>But ſince I can't be ſo, I will,</l>
+                  <l>By thy aſſiſtance quickly follow him,</l>
+                  <l>And bear him company in Death.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Comfort thy ſell, poor Virgin, 'tis</l>
+                  <l>The hand of Fate, and not thy fault.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Why weepſt thou Swain? if 'tis for me,</l>
+                  <l>Weep not, for I deſerve no tears,</l>
+                  <l>No pity; I who never knew</l>
+                  <l>What pity was; If 'tis for him,</l>
+                  <l>For poor <hi>Amintas,</hi> thou mayſt weep</l>
+                  <l>A Sea of Tears, and yet want more.</l>
+                  <l>
+                     <hi>Daphne,</hi> if thou doſt mourn for me,</l>
+                  <l>For Heavens ſake, prithee mourn no more;</l>
+                  <l>I beg, not out of pity to my ſelf,</l>
+                  <l>But out of pity to the man</l>
+                  <l>Who merited thy Love, that thou</l>
+                  <l>Wouldſt help me gather up his Bones,</l>
+                  <l>And lay 'em in a Grave; 'tis this</l>
+                  <l>Which only ſhall prolong my Life:</l>
+                  <l>This friendly office, all that I</l>
+                  <l>Can pay him for his heart, ſhall be my care.</l>
+                  <l>The Piety of ſuch a deed</l>
+                  <l>By my vile bands will be denfil'd:</l>
+                  <l>Yet I believe whate're theſe hands</l>
+                  <l>Shall do for him will pleaſe his Ghoſt,</l>
+                  <l>Since, ſpite of all his wrongs, I'm ſure</l>
+                  <l>He lov'd me to the laſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I'll go</l>
+                  <l>And help you, but you muſt not think</l>
+                  <l>Of dying after we've perform'd</l>
+                  <l>Our duty to our friend.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Hitherto l've only liv'd</l>
+                  <l>For my ſelf, the little time</l>
+                  <l>That's now left me, I'll devote</l>
+                  <pb n="49" facs="tcp:106312:29"/>
+                  <l>To <hi>Amintas,</hi> if I can't</l>
+                  <l>Live for him, I'll live at leaſt</l>
+                  <l>For his pale unhappy Body.</l>
+                  <l>I muſt put off death a while,</l>
+                  <l>Till I've ſeen it, and then end</l>
+                  <l>With his Funeral my Life.</l>
+                  <l>Shepherd, lead us to the Vale,</l>
+                  <l>To the fatal Precipice.</l>
+               </sp>
+               <sp>
+                  <speaker>Ergaſt.</speaker>
+                  <l>Keep this path, you cannot miſs the way.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Come, I'll conduct ye, follow me;</l>
+                  <l>I know the place, 'tis not far off.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Farewel Shepherds, farewel Plains,</l>
+                  <l>Woods and Streams, and all farewel.</l>
+               </sp>
+               <sp>
+                  <speaker>Ergaſt.</speaker>
+                  <l>She heartily repents her ſcorn,</l>
+                  <l>And talks as if ſhe never would return.</l>
+               </sp>
+               <sp>
+                  <speaker>CHORUS.</speaker>
+                  <lg>
+                     <l>Death in vain oppoſes Love,</l>
+                     <l>Who conquers every Foe;</l>
+                     <l>To his Empire all above</l>
+                     <l>Submit, and all below.</l>
+                  </lg>
+                  <lg>
+                     <l>What Love unites Death ſeldom parts,</l>
+                     <l>And what he parts Love often joyns;</l>
+                     <l>Triumphs o're Death, reſiſts his Darts,</l>
+                     <l>And will himſelf alone command our minds.</l>
+                  </lg>
+                  <lg>
+                     <l>'Maids comply with Love in time,</l>
+                     <l>'E're your Error grows a Crime;</l>
+                     <l>'E're he makes you yield by force.</l>
+                     <l>'Ah, conſider 'twill be worſe</l>
+                     <l>'To rebel, and be ſubdu'd,</l>
+                     <l>'Than obey him as you ſhou'd.</l>
+                     <l>'When he ſummons you at firſt,</l>
+                     <l>'Tield, or elſe expect the worſt:</l>
+                     <l>'Late Repentance will be too</l>
+                     <l>'<g ref="char:V">Ʋ</g>ſeleſs to your Friend and you.</l>
+                  </lg>
+                  <lg>
+                     <l>Death in vain, <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div n="5" type="act">
+            <pb n="50" facs="tcp:106312:30"/>
+            <head>ACT V.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>Elpinus, Chorus.</stage>
+               <sp>
+                  <speaker>Elpin.</speaker>
+                  <l>OH Love! how rigid are thy Laws?</l>
+                  <l>How much muſt all that once ſubject</l>
+                  <l>Themſelves to thee, endure before</l>
+                  <l>They taſte the promis'd joy?</l>
+                  <l>Who, who would not have curſt thy power,</l>
+                  <l>Rebell'd againſt thy ſway, and ſought</l>
+                  <l>Some other way to bliſs? if poor</l>
+                  <l>
+                     <hi>Amintas</hi> had not ſcap'd the deaths</l>
+                  <l>Thy uſage tempted him to ſeek.</l>
+                  <l>Ev'n we, who have ador'd thee long</l>
+                  <l>With much fidelity and zeal;</l>
+                  <l>We, who have rais'd thy name above</l>
+                  <l>All other Gods, to whom we make</l>
+                  <l>Our own <hi>Apollo</hi> yield; ſhould then</l>
+                  <l>Have taught our Children to forget</l>
+                  <l>Thy worſhip, and forſake thy Temples.</l>
+                  <l>But now that our <hi>Amintas</hi> lives,</l>
+                  <l>We'll, if 'tis poſſible, forget</l>
+                  <l>Thy Cruelty, to bleſs thy Care.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>The Sage <hi>Elpinus</hi> comes and talks</l>
+                  <l>As if <hi>Amintas</hi> were alive:</l>
+                  <l>Ah Shepherd! didſt thou know the things</l>
+                  <l>Which we have heard to day; the ills</l>
+                  <l>That Love has brought on all, thou wouldſt</l>
+                  <l>Have little reaſon to forget</l>
+                  <l>His Cruelty, or bleſs his Care.</l>
+               </sp>
+               <sp>
+                  <speaker>Elpin.</speaker>
+                  <l>Rejoyce, my friends, rejoice, the news</l>
+                  <l>You heard is falſe; <hi>Amintas</hi> lives.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Ah! what, <hi>Eipinus,</hi> doſt thou ſay?</l>
+                  <l>How doſt thou comfort us? Is't falſe?</l>
+                  <pb n="51" facs="tcp:106312:30"/>
+                  <l>Did he not fling himſelf but now</l>
+                  <l>From yonder Hill among the Rocks?</l>
+                  <l>Ah! tell us how he was preſerv'd? what pow'r,</l>
+                  <l>What God was by, to ſave him at his fall?</l>
+               </sp>
+               <sp>
+                  <speaker>Elpin.</speaker>
+                  <l>Hear then what I ſhall ſay, no more</l>
+                  <l>Than I have with theſe eyes beheld.</l>
+                  <l>I've in the Deſart Vale a Cave,</l>
+                  <l>Where <hi>Thyrſis</hi> came to mc to day,</l>
+                  <l>Where, while we talkt of that proud Nymph</l>
+                  <l>Whoſe Fetters formerly he wore,</l>
+                  <l>And I at preſent wear, we heard</l>
+                  <l>A voice, and lookt up tow'rds the hill;</l>
+                  <l>Whence, down the Precipice, we ſaw</l>
+                  <l>A Body tumble on a Buſh.</l>
+                  <l>Juſt by my Cave, and near the Mount,</l>
+                  <l>A few tall Buſhes riſe from Box,</l>
+                  <l>And other Trees, which all unite</l>
+                  <l>In one; on theſe we ſaw him fall:</l>
+                  <l>But, carry'd by the Body's weight,</l>
+                  <l>He rowl'd off thence, and at our feet</l>
+                  <l>Fell next; the Buſhes ſav'd the blow</l>
+                  <l>So much, we took him up alive.</l>
+                  <l>He was yet ſpeechleſs, and 'twas long</l>
+                  <l>E're we had any other ſigns</l>
+                  <l>Of Life, beſides his ſighs and groans, which ſhew'd</l>
+                  <l>Us that he breath'd: But, oh!</l>
+                  <l>When we perceiv'd who 'twas, what tongue</l>
+                  <l>Can tell the fright which we were in?</l>
+                  <l>Pity and wonder ſtruck us dumb:</l>
+                  <l>Yet thinking by his breath, he might</l>
+                  <l>Still live, we were a little calm'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Oh wonderful Eſcape! Oh thou</l>
+                  <l>Hadſt cauſe, <hi>Elpinus,</hi> to applaud</l>
+                  <l>The Care and Providence of Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Elp.</speaker>
+                  <l>
+                     <hi>Thyrſis</hi> then told me what had paſt,</l>
+                  <l>The ſecret of his Love, and how</l>
+                  <l>Deſpair had hurry'd him to this.</l>
+                  <l>We fetch'd the Remedies we had</l>
+                  <l>At hand, and for <hi>Alfibeus</hi> ſent,</l>
+                  <pb n="52" facs="tcp:106312:31"/>
+                  <l>Who by <hi>Apollo</hi> has been taught</l>
+                  <l>The Art of Phyſick; when he came,</l>
+                  <l>He told us quickly, there were hopes.</l>
+                  <l>And as we wept to ſee him ſtill</l>
+                  <l>Lye ſpeechleſs in his arms he ſaid</l>
+                  <l>We ſhould not be ſurpriz'd at that;</l>
+                  <l>For, having ſearcht him well, he found</l>
+                  <l>No wounds, nor any thing which might</l>
+                  <l>With reaſon make us fear: 'Tis true,</l>
+                  <l>He ſaid he might be ſome time in a Trance,</l>
+                  <l>But after would recover ſoon.</l>
+                  <l>And having then perform'd his Art,</l>
+                  <l>He order'd men to bear him home,</l>
+                  <l>Who at a little diſtance hence,</l>
+                  <l>Are coming with our Friend.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>What Fools are men in Love? how apt</l>
+                  <l>To be deceiv'd, how ready oft</l>
+                  <l>To joyn with thoſe they love to cheat themſelves?</l>
+                  <l>What miſchiefs have their falſe deſpairs,</l>
+                  <l>And groundleſs hopes begot? How near</l>
+                  <l>Was poor <hi>Amintas</hi> raſh miſtake,</l>
+                  <l>Depriving us of what we all</l>
+                  <l>Expected in our time to ſee,</l>
+                  <l>The grace and pleaſure of theſe woods?</l>
+               </sp>
+               <sp>
+                  <speaker>Elp.</speaker>
+                  <l>
+                     <hi>Alfibeus</hi> with his charge appears,</l>
+                  <l>And in his Looks we may diſcern,</l>
+                  <l>How much <hi>Amintas.</hi> ſafely glads</l>
+                  <l>His ſoul as well as ours.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="5" type="act">
+            <head>ACT V.</head>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Elpinus, Chorus, Thyrſis, Alfibeus, and Amintas born on a Couch.</stage>
+               <sp>
+                  <speaker>Alfib.</speaker>
+                  <l>OH Swains!</l>
+                  <l>Oh Nymphs! Oh all that ever lov'd</l>
+                  <l>This youth, and who of ye that heard</l>
+                  <l>Him ſing, Or ſaw him at our ſports,</l>
+                  <l>But heard and ſaw him with delight?</l>
+                  <l>To <hi>Phaebus,</hi> and to Love, addreſs</l>
+                  <pb n="53" facs="tcp:106312:31"/>
+                  <l>Your vows, that once more you may hope</l>
+                  <l>To hear and look on him with pleaſure.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="5" type="act">
+            <head>ACT V.</head>
+            <div n="3" type="scene">
+               <head>SCENE III.</head>
+               <stage>Elpinus, Thyrſis, Alfibeus, Chorus, Daphne, Sylvia, Amimtas lying on a Couch.</stage>
+               <sp>
+                  <speaker>Daphne.</speaker>
+                  <l>AH Shepherds join your pray'rs with mine!</l>
+                  <l>Uſe all the Arguments which Grief</l>
+                  <l>And Pity can inſpire, to ſave</l>
+                  <l>This Maid from ruine.</l>
+                  <l>Stay, <hi>Sylvia,</hi> ſtay, till you've perform'd</l>
+                  <l>What you reſolv'd, and what you owe</l>
+                  <l>
+                     <hi>Amintas</hi> Spirit, till the hands</l>
+                  <l>Which you your ſelf confeſs'd would pleaſe</l>
+                  <l>His Ghoſt, to ſee 'em gather up</l>
+                  <l>His bones, have laid 'em in a Grave.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Some God, alas! has done what I</l>
+                  <l>Reſolv'd to do, and to revenge</l>
+                  <l>
+                     <hi>Amintas</hi> wrongs, deny'd my hands</l>
+                  <l>The glory of ſo juſt a deed.</l>
+                  <l>Tell me, ye Powers! ah tell me where</l>
+                  <l>You have convey'd my Love, and laid</l>
+                  <l>His mangled Limbs? Direct me where,</l>
+                  <l>That I may ſee 'em e're I dye:</l>
+                  <l>That I may feaſt my cruel eyes</l>
+                  <l>With objects equally ſevere:</l>
+                  <l>And if I can, inſtruct my heart</l>
+                  <l>To be more barbarous to my ſelf,</l>
+                  <l>Than e're it was to him.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Ceaſe, prithee <hi>Sylvia</hi> ceaſe your tears,</l>
+                  <l>And don't torment thy ſelf too much</l>
+                  <l>For ills, thy ſorrows can't retrieve.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>See, <hi>Daphne,</hi> how theſe Shepherds ſmile</l>
+                  <l>At my Deſpair, how unconcern'd</l>
+                  <l>They hearken to my griefs; ev'n I,</l>
+                  <l>As ſavage as I was, ſcarce ſaw</l>
+                  <l>
+                     <hi>Amintas</hi> mourn with ſo much eaſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Hence, Shepherds hence, and don't diſturb</l>
+                  <pb n="54" facs="tcp:106312:32"/>
+                  <l>The wretched with untimely joy.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Not that I court your pity, or</l>
+                  <l>Expect compaſſion, but methinks</l>
+                  <l>
+                     <hi>Amintas</hi> death ſhould touch your hearts;</l>
+                  <l>And you ſhould ſtill conſider me</l>
+                  <l>As one <hi>Amintas</hi> lov'd. But oh!</l>
+                  <l>You look on me as one that hated him,</l>
+                  <l>You ſee his murderer in me, and ſet</l>
+                  <l>Your ſouls againſt the cauſe of ſo much woe.</l>
+                  <l>Oh! that you ail could in this minute loſe</l>
+                  <l>Your native tenderneſs, and that your rage</l>
+                  <l>Were equal to your hate, that I might ſoon</l>
+                  <l>Be ſent to meet him in thoſe bliſsful plains,</l>
+                  <l>Where he himſelf will treat me with more love.</l>
+               </sp>
+               <sp>
+                  <speaker>Alfib.</speaker>
+                  <l>
+                     <hi>Sylvia</hi> forbear theſe ſad complaints,</l>
+                  <l>And don't afflict your ſelf for things</l>
+                  <l>Which heaven has wonderfully made</l>
+                  <l>The ſubject of our joy, <hi>Amintas</hi> lives.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Ha, <hi>Daphne,</hi> whither are we got?</l>
+                  <l>I heard a voice, which ſaid <hi>Amintas</hi> lives;</l>
+                  <l>And in the midſt of grief invites to joy.</l>
+                  <l>Ha! ſee what heavenly viſion ſtrikes my eyes,</l>
+                  <l>Behold it well, my Friend, and tell me then</l>
+                  <l>If any thing but my <hi>Amintas</hi> ſelf</l>
+                  <l>Could look more lovely. 'Tis <hi>Amintas</hi> ſelf,</l>
+                  <l>I know him now: I feel him at my heart,</l>
+                  <l>It dances in my breaſt, and bids me do</l>
+                  <l>What Love commands and you muſt all excuſe.</l>
+                  <stage>Falls on Amin.</stage>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>How can <hi>Sylvia</hi> do all this?</l>
+                  <l>She who is ſo proud and nice</l>
+                  <l>One would think ſhould be aſham'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Elpin.</speaker>
+                  <l>Shame ſometimes, where Love is weak,</l>
+                  <l>Keeps ſome Maids from being free;</l>
+                  <l>But when it grows ſtrong, like hers,</l>
+                  <l>Love's too powerful for ſhame.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Where, where is he who ſaid <hi>Amintas</hi> lives?</l>
+                  <l>Let him come here, and tell me if he can,</l>
+                  <l>Why his eyes languiſh, why he looks ſo pale?</l>
+                  <pb n="55" facs="tcp:106312:32"/>
+                  <l>Why lifeleſs, when his <hi>Sylvia</hi> claſps him thus,</l>
+                  <l>And deaf to all ſhe ſays? Ah ſpeak, my Love,</l>
+                  <l>Inform me if my glances hurt thy eyes,</l>
+                  <l>And drive away thy Soul from what it loaths.</l>
+                  <l>Whoe're thou art that ſaid <hi>Amintas</hi> lives,</l>
+                  <l>'Twas falſely ſaid, and with a vile intent</l>
+                  <l>To ſhew me hope, and leave me in deſpair.</l>
+                  <l>He lives indeed, but in a better world,</l>
+                  <l>Whence now methinks I hear him call on me,</l>
+                  <l>And <hi>Sylvia</hi>'s name is in <hi>Elyſium</hi> ſung.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Where am I? on what happy Region thrown?</l>
+                  <l>What Muſick wakes me from the arms of death,</l>
+                  <l>And charms me with the name of my belov'd?</l>
+                  <l>Oh! all ye Glorious Spirits, who in peace</l>
+                  <l>And perfect bliſs poſſeſs theſe ſacred Groves,</l>
+                  <l>Direct me to the Bow'r, where <hi>Sylvia</hi> waits</l>
+                  <l>For me, whom now ſhe can no longer hate,</l>
+                  <l>Since all Paradice are friends.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>He ſpeaks, he lives, and injur'd as he was,</l>
+                  <l>Talks kindly of me ſtill. Look up <hi>Amintas,</hi>
+                  </l>
+                  <l>Look on thy <hi>Sylvia</hi> with thy uſual joy,</l>
+                  <l>And let thy Eyes ſpeak kindly, like thy Tongue.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Who breathes new life into me with her kiſſes,</l>
+                  <l>And quickens me with her embraces? Ha! my Love,</l>
+                  <l>My <hi>Sylvia</hi> winding in my arms! I can ſcarce</l>
+                  <l>Spare time to ask the meaning of theſe things?</l>
+                  <l>Have not I ſeen you all, and been your friend?</l>
+                  <l>And is not this the darling of my Soul?</l>
+                  <l>Yes, yes, 'tis ſhe; her Beauty ſhews 'tis ſhe,</l>
+                  <l>Nor could I feel ſuch Tranſports with another.</l>
+               </sp>
+               <sp>
+                  <speaker>Alfib.</speaker>
+                  <l>His Love prevents my Art, and he revives</l>
+                  <l>Faſter than I expected.</l>
+               </sp>
+               <sp>
+                  <speaker>Elpin.</speaker>
+                  <l>But I fear</l>
+                  <l>The violence of ſuch exceſſive bliſs</l>
+                  <l>Will prejudice his health.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>I rather think</l>
+                  <l>Its violence will help to cure him.</l>
+                  <l>
+                     <hi>Alfibeus</hi> you muſt tell him what's</l>
+                  <l>Moſt proper for his ſafety.</l>
+               </sp>
+               <pb n="56" facs="tcp:106312:33"/>
+               <sp>
+                  <speaker>Alfib.</speaker>
+                  <l>I believe</l>
+                  <l>His ſafety is ſecur'd in <hi>Sylvia</hi>'s Love.</l>
+                  <l>How fares <hi>Amintas?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Amin</speaker>
+                  <l>Oh, all is well, and I begin to think</l>
+                  <l>Love has for me done Miracles to day.</l>
+               </sp>
+               <sp>
+                  <speaker>Thyr.</speaker>
+                  <l>Love has indeed done Miracles to ſave</l>
+                  <l>Thy life, and ſoften <hi>Sylvia</hi>'s heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>Tell us no more, 'twill interrupt our bliſs.</l>
+                  <l>Let him not know what dangers he has ſcap'd;</l>
+                  <l>When he reflects how barb'rous I have been</l>
+                  <l>He'll loath me for my Cruelty, and hate</l>
+                  <l>A Maid who ſo unjuſtly hated him.</l>
+               </sp>
+               <sp>
+                  <speaker>Amin.</speaker>
+                  <l>Oh <hi>Sylvia!</hi> we'll not think of what is paſt,</l>
+                  <l>I'll not enquire how I became ſo bleſt,</l>
+                  <l>But thank the Gods and thee for what I know.</l>
+                  <l>As for the reſt, thou could'ſt not but b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> j<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </l>
+                  <l>And love decreed the troubles we have known.</l>
+                  <l>To ſhew his Pow'r, and make our bliſs the greater.</l>
+               </sp>
+               <sp>
+                  <speaker>Elp.</speaker>
+                  <l>There's nothing wanting but <hi>Mantan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>'s word,</l>
+                  <l>To make 'em both as happy as they with.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>They need not queſtion his conſent,</l>
+                  <l>He longs to ſee his Daughters Sons,</l>
+                  <l>To ſport about him and revive</l>
+                  <l>His Age, and ſoon will grant what they deſire.</l>
+               </sp>
+               <sp>
+                  <speaker>Alfib.</speaker>
+                  <l>Then let us to her Fathers houſe repair</l>
+                  <l>And ſee him join their hands and ſhare his joy.</l>
+               </sp>
+               <sp>
+                  <speaker>Amint.</speaker>
+                  <l>You all may by my fate perceive</l>
+                  <l>The Laws which Love preſcribes Mankind,</l>
+                  <l>By which Eternally he rules</l>
+                  <l>His Empire here,</l>
+                  <l>Are not fantaſtaſtical and hard,</l>
+                  <l>As ſometimes we ſuppoſe his works,</l>
+                  <l>Tho they're myſterious, are wiſe</l>
+                  <l>And ſuch as we ſhould ne're condemn.</l>
+                  <l>With how much art, thro' hidden ways,</l>
+                  <l>And paths unknown, he leads to bliſs.</l>
+                  <l>And when we think him ready to deſtroy,</l>
+                  <l>He opens Paradice, and leaves our Souls in joy.</l>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
